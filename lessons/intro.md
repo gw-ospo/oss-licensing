@@ -2,7 +2,25 @@
 
 This is a a short course that introduces researchers (doctoral students, postdocs, staff researchers and PIs) to the essentials of open-source software (OSS) licensing for research and educational purposes. The course duration should be about 3 hours when taught live, and we will also produce an online version for self-study. 
 
-The course covers the key topics related to using, licensing, and collaborating with open source software, data, and content in a research and education context. Each section includes relevant subtopics and practical considerations, with a focus on understanding licensing concepts, choosing appropriate licenses, navigating institutional processes, and fostering open source collaboration in research teams.
+The course covers the key topics related to using, licensing, and collaborating with open source software, data, and content in a research and education context. Each section includes relevant subtopics and practical concerns, focusing on key licensing concepts, choosing appropriate licenses, navigating institutional processes, and fostering open source collaboration in research teams.
+
+`````{admonition} Vignette: A Research Dilemma
+:class: tip
+Dr. Samantha Rodriguez, a graduate student in computational biology, has been working on developing new algorithms for analyzing genomic data. During her literature review, she comes across a research paper that describes a software tool that could significantly improve the performance of her analysis pipeline.
+
+The software seems to be exactly what she needs, and the paper's authors have made the source code available online. Excited by this discovery, Samantha downloads the code and tries to integrate it into her own project.
+
+However, as she digs deeper, she realizes that the code repository contains several files with different licenses, some of which she's never encountered before. She starts to wonder:
+
+- Am I allowed to use and modify this code for my research?
+- hat are the legal implications of distributing my work that includes this third-party software?
+- If I make changes to the code, can I share those changes with others?
+- What if I want to use parts of this code in a future commercial project?
+
+Samantha feels overwhelmed by the licensing complexities and is unsure about the best way to proceed. She knows that using open source software can be incredibly beneficial for her research, but she also wants to ensure that she's complying with all legal and ethical requirements.
+
+As researchers increasingly rely on open source tools and collaborate across institutions, understanding software licensing has become crucial. Making the wrong choices could lead to legal troubles, restrict future opportunities, or inadvertently limit the impact of one's work.
+`````
 
 ```{tableofcontents}
 ```
