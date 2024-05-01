@@ -1,62 +1,52 @@
-# jupyter-book-example
+# Open Source Software Licensing for Research and Education
 
-This repository demonstrates a working implementation of [Jupyter Book](https://jupyterbook.org/en/stable/publish/gh-pages.html), hosted on GitHub Pages, with automated deployments setup via GitHub Actions.
+## 1. Using Openly Licensed Works Published by Others (1 hour)
+1. Introduction to open licensing concepts
+        - Definition of open source, open data, open content
+        - Importance of open licensing for research and education
+2. Understanding license types
+        - Proprietary licenses
+        - Open source (permissive) licenses: MIT, BSD, Apache, etc.
+        - Open source (copyleft) licenses: GPL, LGPL, MPL
+3. License compatibility and composability
+        - Understanding license compatibility
+        - Implications of license directionality
+        - Combining code, data, and content under different licenses
+4. Practical considerations for using third-party open works
+        - Identifying and complying with license terms
+        - Attribution and citation requirements
+        - Source code availability and modifiability
 
-## Setup
+## 2. Licensing Your Own Works (1 hour)
+1. Why license your research outputs?
+        - Reproducibility, transparency, and scientific norms
+        - Enabling collaboration and building on existing work
+2. Licensing code, data, and other content types
+        - Considerations for licensing software
+        - Licensing options for research data
+        - Creative Commons licenses for text, media, and other content
+3. Choosing an appropriate open license
+        - Factors to consider (use case, audience, commercialization, etc.)
+        - Academic and research use cases
+        - Institutional policies and processes
+4. Working with the technology transfer office
+        - Understanding institutional IP policies
+        - Navigating the licensing process
+        - Negotiating open licensing for research outputs
 
-[Make a copy](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) of this repository template. Then clone your copy of the repository onto your local computer, and navigate there from the command line.
-
-Setup virtual environment:
-
-```sh
-conda create -n jbook-env python=3.10
-conda activate jbook-env
-```
-
-Install packages (including Jupyter Book):
-
-```sh
-pip install -r requirements.txt
-```
-
-## Managing the Book
-
-### Initialization
-
-The following command was used to create the structure for this book (where "example-book" was chosen as the name of the book):
-
-```sh
-jupyter-book create example-book
-
-# consider alternatively:
-#jupyter-book create --cookiecutter example-book
-```
-
-### Building
-
-Build book as LaTeX (see "example-book/_build/latex"):
-
-```sh
-jupyter-book build example-book/ --builder latex
-```
-
-Build book as PDF (see ["example-book/_build/latex/book.pdf"](/example-book/_build/latex/book.pdf)):
-
-```sh
-jupyter-book build example-book/ --builder pdflatex
-```
-
-Build book as HTML: (see "example-book/_build/html/index.html"):
-
-```sh
-#jupyter-book build example-book/
-jupyter-book build example-book/ --builder html
-```
-
-### Deployment
-
-Configure GitHub Pages for your repository to deploy from "GitHub Actions" source.
-
-FYI - the [".github/workflows/deploy-book.yml"](/.github/workflows/deploy-book.yml) file controls the build process. If you use your own book name, customize "example-book" to refer to the book name you chose.
-
-Commit and push to trigger an automated build of your HTML site. Visit the hosted site at your repository's GitHub Pages URL.
+## 3. Collaborating in Open Source Research Teams (1 hour)
+1. Benefits and challenges of open source collaboration
+        - Community contributions and code sustainability
+        - Coordination and communication overhead
+2. License considerations for collaborative projects
+        - Inbound: understanding licenses of third-party components
+        - Outbound: choosing a license for collaborative outputs
+        - License proliferation and managing dependencies
+3. Tools and practices for open source collaboration
+        - Version control systems (Git, GitHub, etc.)
+        - Contribution guidelines and governance models
+        - Open science frameworks and platforms
+4. Building and sustaining an open source community
+        - Attracting and retaining contributors
+        - Leveraging open source for research dissemination and impact
+        - Open source sustainability models
