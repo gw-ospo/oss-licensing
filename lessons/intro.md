@@ -22,5 +22,7 @@ Samantha feels overwhelmed by the licensing complexities and is unsure about the
 As researchers increasingly rely on open source tools and collaborate across institutions, understanding software licensing has become crucial. Making the wrong choices could lead to legal troubles, restrict future opportunities, or inadvertently limit the impact of one's work.
 `````
 
+The lessons in this course cover: how to use licensed works; how to licens your own material (code, data, other content); and how to work with others and license together. Read on!
+
 ```{tableofcontents}
 ```
