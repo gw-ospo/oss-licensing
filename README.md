@@ -1,3 +1,5 @@
+
+[![CC BY 4.0][cc-by-shield]][cc-by] 
 # Open Source Software Licensing for Research and Education
 
 ## 1. Using Openly Licensed Works Published by Others (1 hour)
