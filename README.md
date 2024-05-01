@@ -1,5 +1,6 @@
 
-[![CC BY 4.0][cc-by-shield]][cc-by] 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 # Open Source Software Licensing for Research and Education
 
 ## 1. Using Openly Licensed Works Published by Others (1 hour)
