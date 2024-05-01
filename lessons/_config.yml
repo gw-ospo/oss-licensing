@@ -3,7 +3,7 @@
 
 title: OSS Licensing for Research and Education
 author: Lorena A. Barba
-logo: assets/gw_iddol_ospo_2c.png
+logo: ../assets/gw_iddol_ospo_2c.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
