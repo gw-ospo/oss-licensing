@@ -1,4 +1,4 @@
-# Introduction
+# OSS Licensing for Research and Education
 
 This is a a short course that introduces researchers (doctoral students, postdocs, staff researchers and PIs) to the essentials of open-source software (OSS) licensing for research and educational purposes. The course duration should be about 3 hours when taught live, and we will also produce an online version for self-study. 
 
