@@ -13,7 +13,7 @@ The software seems to be exactly what she needs, and the paper's authors have ma
 However, as she digs deeper, she realizes that the code repository contains several files with different licenses, some of which she's never encountered before. She starts to wonder:
 
 - Am I allowed to use and modify this code for my research?
-- hat are the legal implications of distributing my work that includes this third-party software?
+- What are the legal implications of distributing my work that includes this third-party software?
 - If I make changes to the code, can I share those changes with others?
 - What if I want to use parts of this code in a future commercial project?
 
@@ -22,7 +22,22 @@ Samantha feels overwhelmed by the licensing complexities and is unsure about the
 As researchers increasingly rely on open source tools and collaborate across institutions, understanding software licensing has become crucial. Making the wrong choices could lead to legal troubles, restrict future opportunities, or inadvertently limit the impact of one's work.
 `````
 
-The lessons in this course cover: how to use licensed works; how to licens your own material (code, data, other content); and how to work with others and license together. Read on!
+The lessons in this course cover: how to use licensed works; how to license your own material (code, data, other content); and how to work with others and license together. Read on!
+
+`````{admonition} Vignette: Why open source?
+:class: tip
+```{image} ../assets/2015_blog.png
+:alt: old blog 
+:width: 400px
+:align: center
+```
+In an October 2015 [interview](https://web.archive.org/web/20180514095134/http://rtalbert.org/blog/2015/interview-lorena-barba), mathematics professor and blogger Robert Talbert asked this question: "Why do you advocate so strongly for open-source technology in research and education?"
+
+> Free and open-source software (FOSS) is a human invention of tremendous impact. It poses an alternative to intellectual-property instruments that are limiting and want to control how a creative work is used. Open-source licenses allow people to coordinate their work freely, within the confines of copyright law, while making access and wide distribution a priority. I’ve always thought that this is fundamentally aligned with the method of science, where we value academic freedom and wide dissemination of scientific findings. ---**Lorena A. Barba**
+
+`````
+
+## Lessons
 
 ```{tableofcontents}
 ```
