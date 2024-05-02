@@ -82,4 +82,4 @@ Proprietary licenses
 
 ## Sources
 
-This lesson is based on materials from the presentation by {cite:t}`barba2017-licensing`.
+This lesson is based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
