@@ -22,7 +22,13 @@ Samantha feels overwhelmed by the licensing complexities and is unsure about the
 As researchers increasingly rely on open source tools and collaborate across institutions, understanding software licensing has become crucial. Making the wrong choices could lead to legal troubles, restrict future opportunities, or inadvertently limit the impact of one's work.
 `````
 
-The lessons in this course cover: how to use licensed works; how to license your own material (code, data, other content); and how to work with others and license together. Read on!
+The dilemma presented in the vignette above is an example of how you might first encounter open-source software: someone on the internet posted their code on a website... _Can you use it? Can you incorporate it into your own code? Can you modify it? Can you redistribute it? Should you credit the author?_ 
+
+Once you have experienced the joy of reusing someone else's open-source software, and it has benefitted your research or educational endeavors, you may ask: _how do I share my own code with the world?_ After all, we seek to have impact through our work, and you now see clearly that sharing can have impact! What do you need to know to license your own code, data, or other works?
+
+As you engage more with open-source software, you realize that most projects are developed collaboratively. This is true of your research, too. This is the top prize: working with others under an open development model. _What do you need to know about licensing joint work?_
+
+**The lessons in this course cover: how to use licensed works; how to license your own material (code, data, other content); and how to work with others and license together. Read on!**
 
 `````{admonition} Vignette: Why open source?
 :class: tip
