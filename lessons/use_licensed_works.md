@@ -10,6 +10,10 @@ Surprised by the request, Dr. Johnson realizes that she had not explicitly speci
 In fact, without a clear license, her software is essentially in a state of _legal uncertainty_. Potential users, like Dr. Nguyen, are left wondering if they have the right to use, modify, or distribute the code. Many well-informed researchers may choose to avoid using her software altogether, as the absence of a license makes it unclear whether they can do so without legal risk.
 Dr. Johnson realizes that by not attaching a license to her software, she unintentionally limited its potential impact and adoption within the scientific community. She learns that software, like poetry or any other creative work, is automatically protected by copyright law the moment it is created. Without a clear license, users are forced to assume that they do not have permission to use or build upon the work.
 
+```{margin} Code is like poetry
+Software is a creative work, and copyright is automatically attached to it.
+```
+
 To rectify the situation, Dr. Johnson decides to research software licenses and choose one that aligns with her goals of fostering collaboration and open science. By attaching a standard open source license to her software, she can grant users the necessary permissions and freedoms, while still retaining credit for her work. This experience teaches her the importance of specifying a license for her software projects from the outset, ensuring that her work can be used, shared, and built upon by others in the scientific community.
 
 `````
