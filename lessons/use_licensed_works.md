@@ -65,10 +65,10 @@ The most important distinction between the various FOSS licenses is whether they
 
 Permissive licenses:
 
- * have fewer restrictions
- * allow use, distribution, modification
- * only requre that authors be given credit
- * best choice for academic use
+ 1. have fewer restrictions
+ 2. allow use, distribution, modification
+ 3. only requre that authors be given credit
+ 4. best choice for academic use
 ```
 
 Open-source permissive licenses
