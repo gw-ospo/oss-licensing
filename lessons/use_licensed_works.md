@@ -6,6 +6,12 @@ In the world of research and education, open licensing has become increasingly i
 
 In essence, open licensing refers to a set of principles and legal frameworks that grant permissions for others to freely access, use, modify, and share creative works or products. This concept applies to various types of outputs, including software, research data, scholarly publications, and educational materials.
 
+```{image} ../assets/licensing_orgs.png
+:alt: logos of licensing orgs 
+:width: 500px
+:align: center
+```
+
 Open source software is perhaps the most well-known example of open licensing. [Open source licenses](https://opensource.org/licenses), such as the MIT, BSD, and Apache licenses, allow users to access the source code of a software program, study how it works, modify it to suit their needs, and redistribute the modified versions.
 
 Similarly, the open data movement advocates for making research data openly available and reusable, often under licenses like the [Open Data Commons licenses](https://opendatacommons.org/licenses/) or [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/) public domain dedication. This enables other researchers to validate findings, combine datasets, and build upon existing work.
@@ -21,7 +27,7 @@ The principles of open licensing are deeply rooted in the academic traditions of
 
 Open licensing is not just a technological or legal construct; it represents a _cultural shift towards openness, collaboration, and the democratization of knowledge_. As we delve deeper into this topic, we will explore the practical aspects of using openly licensed works, as well as the considerations involved in licensing your own research outputs and collaborating with others in open source projects.
 
-```{important} Open licensing
+```{important}
 Open licensing gives us _freedom_---contrary to intellectual-property instruments that want to control how creative works are used.
 
 Freedom is power. In this case, the power of open-source software comes not just from being able to read the source code, but from being able to contribute to and build from it. 
