@@ -4,13 +4,8 @@
 .DS_Store
 
 
-# ignore just the book PDF file!!
-# https://stackoverflow.com/a/16318111/670433
-example-book/_build/*
-!example-book/_build/latex
-example-book/_build/latex/*
-!example-book/_build/latex/book.pdf
-
+#  ignore all artifacts from the build process (regardless of book name):
+*/_build/*
 
 
 
