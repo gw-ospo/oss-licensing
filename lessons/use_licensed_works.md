@@ -53,3 +53,18 @@ Freedom is power. In this case, the power of open-source software comes not just
 For this power to be realized, it's not sufficient to make the source public to read. We must attach a license that allows others to modify and distribute the code.
 
 ```
+
+## Understanding license types
+
+Understanding the basic differences between license types is essential for researchers and educators who want to make informed decisions about which licenses to use for their own projects and how to properly use and attribute third-party software in their work. By familiarizing themselves with the key characteristics and implications of each license type, researchers can ensure that they are using and sharing software in a way that aligns with their goals and values, while also respecting the rights and intentions of the original creators.
+
+The three main categories of licenses are: open-source permissive, open-source copyleft, and proprietary.
+
+Open-source permissive licenses
+: Open-source permissive licenses, such as the MIT, BSD, and Apache licenses, are designed to grant users broad freedoms to use, modify, and distribute the licensed software. These licenses typically only require that the original copyright notice and license text be included in any copies or derivative works. Permissive licenses place minimal restrictions on how the software can be used, making them popular choices for academic and research projects. They allow for easy integration with other software projects, including proprietary ones, making them ideal for promoting widespread adoption and collaboration.
+
+Open-source copyleft licenses
+: Open-source copyleft licenses, like the GNU General Public License (GPL), GNU Lesser General Public License (LGPL), and Mozilla Public License (MPL), are designed to make sure that the freedoms granted by the license are preserved in any derivative works. Copyleft licenses require that any modifications or additions to the licensed software also be released under the same license terms. This "share-alike" requirement ensures that the software and its derivatives remain open and accessible to all. Copyleft licenses are often chosen by developers who want their work to remain open and freely available in perpetuity.
+
+Proprietary licenses
+: Proprietary licenses are the most restrictive type of license. They typically grant users the right to use the software only for its intended purpose, often limiting the ability to copy, modify, or redistribute the software. Proprietary licenses are commonly used for commercial software products, where the source code is kept closed and the software is distributed only in binary form. Examples of proprietary licenses include the End-User License Agreements (EULAs) that accompany most commercial software packages.
