@@ -1,5 +1,19 @@
 # Lesson 1: Using Openly Licensed Works Published by Others
 
+`````{admonition} Vignette: A Cautionary Tale of Unlicensed Code
+:class: tip
+Dr. Emily Johnson, a postdoctoral researcher in computational physics, has been working on a complex simulation software for modeling quantum systems. After months of hard work, she finally has a working prototype that she believes could be useful to other researchers in her field.
+Excited to share her creation, Dr. Johnson uploads the source code to a popular code repository, along with a brief README file describing its functionality. She eagerly awaits feedback from her colleagues, hoping that her software will contribute to new discoveries in quantum physics.
+A few weeks later, Dr. Johnson gets an email from Dr. Robert Nguyen, who stumbled upon her code repository. He expresses his interest in using the software for his own research project but is hesitant to do so without knowing the terms under which he can use, modify, and share the code. He asks Dr. Johnson if she could clarify the licensing terms for her software.
+
+Surprised by the request, Dr. Johnson realizes that she had not explicitly specified any license for her code. She had assumed that by making the source code publicly available, she was granting permission for anyone to use it freely. She now understands that simply making the code public does not make her project open source.
+In fact, without a clear license, her software is essentially in a state of _legal uncertainty_. Potential users, like Dr. Nguyen, are left wondering if they have the right to use, modify, or distribute the code. Many well-informed researchers may choose to avoid using her software altogether, as the absence of a license makes it unclear whether they can do so without legal risk.
+Dr. Johnson realizes that by not attaching a license to her software, she unintentionally limited its potential impact and adoption within the scientific community. She learns that software, like poetry or any other creative work, is automatically protected by copyright law the moment it is created. Without a clear license, users are forced to assume that they do not have permission to use or build upon the work.
+
+To rectify the situation, Dr. Johnson decides to research software licenses and choose one that aligns with her goals of fostering collaboration and open science. By attaching a standard open source license to her software, she can grant users the necessary permissions and freedoms, while still retaining credit for her work. This experience teaches her the importance of specifying a license for her software projects from the outset, ensuring that her work can be used, shared, and built upon by others in the scientific community.
+
+`````
+
 ## Open licensing concepts
 
 In the world of research and education, open licensing has become increasingly important for enabling the free exchange of ideas, promoting collaboration, and accelerating scientific progress. _But what do we mean by "open licensing"?_
