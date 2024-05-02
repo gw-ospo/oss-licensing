@@ -60,6 +60,16 @@ Understanding the basic differences between license types is essential for resea
 
 The three main categories of licenses are: open-source permissive, open-source copyleft, and proprietary.
 
+```{margin} Permissive vs. Copy-left
+The most important distinction between the various FOSS licenses is whether they are permissive versus copyleft. These terms are often confused.
+
+Permissive licenses:
+- have fewer restrictions
+- allow use, distribution, modification
+- only requre that authors be given credit
+- best choice for academic use
+```
+
 Open-source permissive licenses
 : Open-source permissive licenses, such as the [MIT](http://choosealicense.com/licenses/mit/), [BSD](https://opensource.org/license/bsd-3-clause), and [Apache](https://choosealicense.com/licenses/apache-2.0/) licenses, are designed to grant users broad freedoms to use, modify, and distribute the licensed software. These licenses typically only require that the original copyright notice and license text be included in any copies or derivative works. Permissive licenses place minimal restrictions on how the software can be used, making them popular choices for academic and research projects. They allow for easy integration with other software projects, including proprietary ones, making them ideal for promoting widespread adoption and collaboration.
 
