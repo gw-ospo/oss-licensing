@@ -5,5 +5,3 @@ format: jb-book
 root: intro
 chapters:
 - file: use_licensed_works
-- file: notebooks
-- file: markdown-notebooks

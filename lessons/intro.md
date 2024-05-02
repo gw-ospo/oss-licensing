@@ -47,3 +47,8 @@ In an October 2015 [interview](https://web.archive.org/web/20180514095134/http:/
 
 ```{tableofcontents}
 ```
+
+## References
+
+```{bibliography}
+```

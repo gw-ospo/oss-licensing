@@ -64,10 +64,10 @@ The three main categories of licenses are: open-source permissive, open-source c
 The most important distinction between the various FOSS licenses is whether they are permissive versus copyleft. These terms are often confused.
 
 Permissive licenses:
-- have fewer restrictions
-- allow use, distribution, modification
-- only requre that authors be given credit
-- best choice for academic use
+* have fewer restrictions
+* allow use, distribution, modification
+* only requre that authors be given credit
+* best choice for academic use
 ```
 
 Open-source permissive licenses
@@ -78,3 +78,7 @@ Open-source copyleft licenses
 
 Proprietary licenses
 : Proprietary licenses are the most restrictive type of license. They typically grant users the right to use the software only for its intended purpose, often limiting the ability to copy, modify, or redistribute the software. Proprietary licenses are commonly used for commercial software products, where the source code is kept closed and the software is distributed only in binary form. Examples of proprietary licenses include the End-User License Agreements (EULAs) that accompany most commercial software packages.
+
+## Sources
+
+This lesson is based on materials from the presentation by {cite:t}`barba2017-licensing`.
