@@ -77,6 +77,43 @@ Open-source copyleft licenses
 Proprietary licenses
 : Proprietary licenses are the most restrictive type of license. They typically grant users the right to use the software only for its intended purpose, often limiting the ability to copy, modify, or redistribute the software. Proprietary licenses are commonly used for commercial software products, where the source code is kept closed and the software is distributed only in binary form. Examples of proprietary licenses include the End-User License Agreements (EULAs) that accompany most commercial software packages.
 
+
+## Composing works under different licenses
+
+As a researcher or educator you'll likely find yourself wanting to use code, data, or content from multiple sources in your projects. But before you start mixing and matching, it's crucial to understand how different licenses can work together (or not!) and the implications of combining them.
+
+### What is license compatibility?
+
+Some licenses play nicely with others, while others have strict requirements that can limit their compatibility. When combining pieces of code together, you will want to check whether the terms of their different licenses allow them to be used together in the same project. 
+
+For example, let's say you want to use a Python library licensed under the permissive MIT license in your research project. You also want to include a dataset licensed under the Creative Commons Attribution (CC BY) license. In this case, you're in luck! The MIT and CC BY licenses are generally compatible, meaning you can use them together without any legal hiccups.
+
+### License directionality
+
+Now, let's talk about _license directionality_. This concept refers to how a license behaves differently depending on whether it's applied to code, data, or content that is being incorporated into your project (upstream) or to the resulting work you create (downstream).
+
+Imagine you're building a research software tool that analyzes social media data. You plan to use a sentiment analysis library licensed under the GNU General Public License (GPL), which is a copyleft license. If you incorporate this GPL-licensed code into your project, the terms of the GPL require that _your entire project_ also be licensed under the GPL when you distribute it. In this case, the GPL license is said to be "viral" in the downstream direction, affecting the licensing of your derived work.
+
+Similarly, if you're using a dataset licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) license, you're required to distribute any derivative works under the same license terms. However, this requirement only applies to the dataset and any modifications you make to it, not to your entire project. The CC BY-SA license is considered "viral" only for the dataset, not for the larger work it's incorporated into.
+
+
+```{figure} ../assets/license_compatibility_morin2012
+---
+scale: 50%
+align: center
+---
+License directionality. Schematic under CC-BY from {cite:t}`morin2012quick`. https://doi.org/10.1371/journal.pcbi.1002598.g002
+```
+
+### Combining code, data, and content under different licenses
+
+Now, let's put it all together. When you're combining code, data, and content from different sources in your research or educational projects, it's essential to consider the compatibility and directionality of their respective licenses.
+
+Say you're creating an online course that includes a mix of your own content, images licensed under Creative Commons, and code examples from various open-source projects. You'll need to review the licenses of each component to ensure that they are compatible with each other and with the license you choose for your overall course materials.
+A handy tool to help you with this task is the [Creative Commons License Compatibility Chart](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility).
+
+Understanding license compatibility and directionality is key to making informed decisions when using and combining licensed works in your research and educational projects. Take the time to review the licenses of the components you use, and always confirm that you are using them legally and ethically.
+
 ## Sources
 
 This lesson is based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
