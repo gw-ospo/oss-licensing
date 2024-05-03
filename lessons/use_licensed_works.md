@@ -43,7 +43,7 @@ The principles of open licensing are deeply rooted in the academic traditions of
 3. Build upon the work of others, accelerating the pace of discovery and innovation.
 4. Collaborate more effectively with colleagues across institutions and disciplines, breaking down silos and fostering interdisciplinary research.
 
-Open licensing is not just a technological or legal construct; it represents a _cultural shift towards openness, collaboration, and the democratization of knowledge_. As we delve deeper into this topic, we will explore the practical aspects of using openly licensed works, as well as the considerations involved in licensing your own research outputs and collaborating with others in open source projects.
+Open licensing is not just a technological or legal construct; it represents a _cultural shift towards openness, collaboration, and the democratization of knowledge_. As we go deeper into this topic, you will learn the practical aspects of using openly licensed works, and what to consider when licensing your own research outputs and collaborating with others in open-source projects.
 
 ```{important}
 Open licensing gives us _freedom_---contrary to intellectual-property instruments that want to control how creative works are used.
@@ -56,20 +56,17 @@ For this power to be realized, it's not sufficient to make the source public to 
 
 ## Understanding license types
 
-Understanding the basic differences between license types is essential for researchers and educators who want to make informed decisions about which licenses to use for their own projects and how to properly use and attribute third-party software in their work. By familiarizing themselves with the key characteristics and implications of each license type, researchers can ensure that they are using and sharing software in a way that aligns with their goals and values, while also respecting the rights and intentions of the original creators.
+Understanding the basic differences between license types is essential for researchers and educators who want to make informed decisions about which licenses to use for their own projects and how to properly use and attribute third-party software in their work. By familiarizing yourself with the key characteristics and implications of each license type, you can ensure that you are using and sharing software in a way that aligns with your goals and values, while also respecting the rights and intentions of the original creators.
 
 The three main categories of licenses are: open-source permissive, open-source copyleft, and proprietary.
 
-```{margin} Permissive vs. Copy-left
+````{margin}
+```{admonition} Permissive vs. Copy-left
 The most important distinction between the various FOSS licenses is whether they are permissive versus copyleft. These terms are often confused.
 
-Permissive licenses:
-
- 1. have fewer restrictions
- 2. allow use, distribution, modification
- 3. only requre that authors be given credit
- 4. best choice for academic use
-```
+Permissive licenses: 1) have fewer restrictions; 2) allow use, distribution, modification; 3) only require that authors be given credit; and 4) are the best choice for academic use.
+ ```
+````
 
 Open-source permissive licenses
 : Open-source permissive licenses, such as the [MIT](http://choosealicense.com/licenses/mit/), [BSD](https://opensource.org/license/bsd-3-clause), and [Apache](https://choosealicense.com/licenses/apache-2.0/) licenses, are designed to grant users broad freedoms to use, modify, and distribute the licensed software. These licenses typically only require that the original copyright notice and license text be included in any copies or derivative works. Permissive licenses place minimal restrictions on how the software can be used, making them popular choices for academic and research projects. They allow for easy integration with other software projects, including proprietary ones, making them ideal for promoting widespread adoption and collaboration.
