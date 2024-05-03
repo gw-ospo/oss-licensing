@@ -97,12 +97,11 @@ Imagine you're building a research software tool that analyzes social media data
 Similarly, if you're using a dataset licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) license, you're required to distribute any derivative works under the same license terms. However, this requirement only applies to the dataset and any modifications you make to it, not to your entire project. The CC BY-SA license is considered "viral" only for the dataset, not for the larger work it's incorporated into.
 
 
-```{figure} ../assets/license_compatibility_morin2012
+```{figure} ../assets/license_compatibility_morin2012.png
 ---
-scale: 50%
-align: center
+width:  500px
 ---
-License directionality. Schematic under CC-BY from {cite:t}`morin2012quick`. https://doi.org/10.1371/journal.pcbi.1002598.g002
+License directionality. Schematic under CC-BY from {cite:t}`morin2012quick`. [doi:10.1371/journal.pcbi.1002598.g002](https://doi.org/10.1371/journal.pcbi.1002598.g002)
 ```
 
 ### Combining code, data, and content under different licenses
