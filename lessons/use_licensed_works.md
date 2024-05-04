@@ -199,6 +199,27 @@ The goal of this activity is to help you gain hands-on experience in identifying
 
 By engaging in this activity, you'll gain practical experience in navigating the landscape of open-source software, understanding licensing terms, and properly crediting the works you use. These skills will serve you well as you continue to explore the use and creation of openly licensed resources in your work.
 
+````{admonition} Vignette: The Tale of Dr. Flack's Data Visualization Journey
+:class: tip
+Dr. Roberta Flack, a climate scientist, needs to create interactive visualizations of global temperature data. 
+After some searching, she finds a JavaScript library called "ClimateViz" that seems perfect for her needs. The library is hosted on GitHub and is released under the MIT license. She also discovers a dataset of global temperature anomalies from the National Oceanic and Atmospheric Administration (NOAA), which is available under the Creative Commons Attribution (CC-BY) license.
+
+**Identifying and Complying with License Terms**---
+Before using these third-party resources, Dr. Flack takes the time to read and understand the terms of the MIT and CC-BY licenses. She notes that both licenses allow her to use, modify, and distribute the library and dataset, as long as she includes the original copyright notices and license terms.
+The MIT license also requires her to include a copy of the license in any distribution of her project that includes the ClimateViz library. Dr. Flack makes a note to include the necessary license files in her project's documentation.
+
+**Attribution and Citation Requirements**---
+Dr. Flack also notices that both the MIT and CC BY licenses require her to give appropriate credit to the original creators of the library and dataset. She reads the library's documentation and finds that the authors have provided a suggested citation format for academic use. For the NOAA dataset, she finds a similar citation request on the agency's website.
+Dr. Flack modifies her project's README file, ensuring that she gives proper credit to the creators of the resources she's using. She also includes the citations in her manuscript when she submits her research for publication.
+
+**Source Code Availability and Modifiability**---
+As Dr. Flack works with the ClimateViz library, she realizes that she needs to modify some parts of the code to better suit her specific data-visualization needs. Because the library is released under the MIT license and hosted on GitHub, she is able to easily access the source code and make the necessary changes.
+Dr. Flack also decides to contribute her modifications back to the original project by submitting a pull request on GitHub. She includes a clear description of her changes and the reasoning behind them, hoping that her contributions can benefit other researchers who might be using the library.
+
+By taking the time to understand and comply with the license terms, attribution requirements, and source code availability of the third-party resources she's using, Dr. Flack ensures that she's using these open works legally and ethically. Her careful attention to these practical considerations not only helps her advance her own research but also contributes to the broader open science community.
+````
+
+
 ## Sources
 
 Portions of this lesson are based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
