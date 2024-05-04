@@ -30,6 +30,11 @@ In essence, open licensing refers to a set of principles and legal frameworks th
 :align: center
 ```
 
+````{margin}
+```{note} The [Open Source Initiative](https://opensource.org) (OSI), founded in 1998, is the stewardship organization of the "open-source" label and [OSS licenses](https://opensource.org/license). It drafted the famous [Open Source Definition](https://opensource.org/osd) that defines ten criteria that must be met for a software license to be considered open source. 
+ ```
+````
+
 Open source software is perhaps the most well-known example of open licensing. [Open source licenses](https://opensource.org/licenses), such as the MIT, BSD, and Apache licenses, allow users to access the source code of a software program, study how it works, modify it to suit their needs, and redistribute the modified versions.
 
 Similarly, the open data movement advocates for making research data openly available and reusable, often under licenses like the [Open Data Commons licenses](https://opendatacommons.org/licenses/) or [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/) public domain dedication. This enables other researchers to validate findings, combine datasets, and build upon existing work.
