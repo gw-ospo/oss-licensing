@@ -150,6 +150,36 @@ Quantum ESPRESSO
 QGIS
 : [QGIS](https://github.com/qgis/QGIS) is a popular open-source geographic information system (GIS) used for mapping and spatial data analysis. It is licensed under the GNU General Public License (GPL) version 2 or later. Like with R, above, any modifications or derivative works of QGIS must also be distributed as open-source under the GPL.
 
+## Giving credit where credit is due: citing openly licensed works
+
+As you've seen already, openly licensed software, data, and content play a key role in enabling reproducible, collaborative, and innovative research. So it's not enough to use and build from these resources; we also have an obligation to properly credit and cite them in our work.
+
+Citing openly licensed works is important because:
+
+- It gives recognition to the creators who have generously made their work available for others to use and build upon.
+- It helps others discover and access the resources you've used, promoting further collaboration and reuse.
+- It enhances the transparency and reproducibility of your research by clearly documenting the tools and data you've relied on.
+
+In academia, citing software and data is becoming increasingly common and accepted, just as citing research articles and books has long been the norm. Many open-source software projects provide clear guidelines on how to cite them in research publications, often including a suggested citation format or even a DOI (Digital Object Identifier) for stable referencing.
+
+`````{admonition}  Spotlight on the Journal of Open Source Software (JOSS)
+:class: tip
+One initiative that is helping to promote the proper citation and recognition of open-source software in research is [The Journal of Open Source Software (JOSS)](http://joss.theoj.org). JOSS is a peer-reviewed journal that publishes articles describing open-source software packages, libraries, and tools used in research.
+
+What sets JOSS apart is its focus on the software itself, rather than the research results obtained using the software. Each JOSS article includes a detailed description of the software, its purpose, functionality, and how it can be used by other researchers. Importantly, JOSS articles also provide a standardized way to cite the software, making it easier for others to properly credit and reference the work.
+
+By publishing in JOSS, software developers can receive academic credit for their work, similar to publishing a research article. This helps to incentivize the creation and sharing of high-quality, well-documented open source software, and promotes a culture of recognition and collaboration within the research community.
+
+`````
+
+### Leading by example
+
+As researchers and educators, we have an opportunity to lead by example in properly crediting and citing the openly licensed works we use. By consistently providing attribution and references for the software, data, and content we rely on, we can help to establish this practice as a community norm and expectation.
+
+Moreover, by introducing our students and colleagues to resources like JOSS and the importance of software citation, we can help to foster a new generation of researchers who understand and value the role of openly licensed works in advancing scientific discovery.
+
+So, as we move forward in exploring the use and creation of openly licensed works, let us remember to give credit where credit is due, and to actively participate in building a culture of recognition and collaboration within the open research community.
+
 ## Sources
 
 Portions of this lesson are based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
