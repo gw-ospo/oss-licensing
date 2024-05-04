@@ -118,6 +118,26 @@ A handy tool to help you with this task is the [Creative Commons License Compati
 
 Understanding license compatibility and directionality is key to making informed decisions when using and combining licensed works in your research and educational projects. Take the time to review the licenses of the components you use, and always confirm that you are using them legally and ethically.
 
+## Example OSS for researchers
+
+Python
+: Python is a popular open-source programming language widely used in scientific computing, data analysis, and machine learning. It is released under the [Python Software Foundation License](https://docs.python.org/3/license.html#psf-license), a permissive software license approved by the OSI. Thus, all of the Python source code can be reused and redistributed for any use, including commercial. The only condition is that the PSF's License Agreement and PSF's notice of copyright be retained in any derivative works.
+
+NumPy
+: [NumPy](https://numpy.org) is a fundamental package for scientific computing in Python, providing support for multi-dimensional arrays and matrices, along with a collection of mathematical functions. It is under the BSD 3-Clause License, which is a permissive license that allows users to freely use, modify, and distribute the software, with minimal requirements for attribution and no restrictions on commercial use.
+
+R
+: R is a programming language and environment for statistical computing and graphics. It is [licensed](https://www.r-project.org/Licenses/) under the GNU General Public License (GPL) version 2 or later. The GPL is a copyleft license, meaning that any derivative works must also be distributed under the same license terms. You can use, modify, and distribute R and its packages, but any modifications you make must also be open-source under the GPL.
+
+Biopython
+: [Biopython](https://biopython.org) is a set of tools for computational biology and bioinformatics written in Python. It is released under the Biopython License Agreement, but some files are [dual-licensed](https://github.com/biopython/biopython/blob/master/LICENSE.rst) with the BSD 3-Clause License; they are both permissive licenses allowing all uses and redistribution, provided that the copyright notice is retained. 
+
+LAMMPS
+: The Large-scale Atomic/Molecular Massively Parallel Simulator, [LAMMPS](https://www.lammps.org/) is a software package for high-performance (classical) molecular dynamics simulations for materials science applications.It is distributed under the [terms](https://docs.lammps.org/Intro_opensource.html) of the GNU Public License Version 2 (GPLv2), so any software that uses or includes LAMMPS source code must also be under GPL.
+
+QGIS
+: [QGIS](https://github.com/qgis/QGIS) is a popular open-source geographic information system (GIS) used for mapping and spatial data analysis. It is licensed under the GNU General Public License (GPL) version 2 or later. Like with R, above, any modifications or derivative works of QGIS must also be distributed as open-source under the GPL.
+
 ## Sources
 
 This lesson is based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
