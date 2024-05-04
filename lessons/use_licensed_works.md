@@ -187,14 +187,14 @@ The goal of this activity is to help you gain hands-on experience in identifying
 1. Think of a research topic or educational need in your field that could potentially be addressed using open-source software.
 2. Search for open-source software packages, libraries, or tools that could be used to tackle this problem or meet this need. You can use resources such as GitHub, GitLab, JOSS, or other domain-specific repositories to find relevant software.
 3. Select one or two open-source software packages that seem most promising for your purposes. For each package, do the following:
-  a. Identify the license under which the software is released. Is it a permissive license (e.g., MIT, BSD) or a copyleft license (e.g., GPL)? What are the key terms and conditions of the license?
-  b. Investigate whether the software has been published in JOSS or another peer-reviewed venue. If so, read the associated article to gain a deeper understanding of the software's purpose, functionality, and potential applications.
-  c. Determine how to properly cite the software in a research publication or educational material. Look for a CITATION file, README, or other documentation that provides guidance on citation format.
+    a. Identify the license under which the software is released. Is it a permissive license (e.g., MIT, BSD) or a copyleft license (e.g., GPL)? What are the key terms and conditions of the license?
+    b. Investigate whether the software has been published in JOSS or another peer-reviewed venue. If so, read the associated article to gain a deeper understanding of the software's purpose, functionality, and potential applications.
+    c. Determine how to properly cite the software in a research publication or educational material. Look for a CITATION file, README, or other documentation that provides guidance on citation format.
 4. Take some notes of your findings for each software package, including:
-  a. The name and purpose of the software
-  b. The license under which it is released and its key terms
-  c. Whether it has been published in JOSS or another peer-reviewed venue
-  d. How to properly cite the software in your work
+    a. The name and purpose of the software
+    b. The license under which it is released and its key terms
+    c. Whether it has been published in JOSS or another peer-reviewed venue
+    d. How to properly cite the software in your work
 5. Share your summary with your colleagues or classmates, and discuss how you might incorporate these openly licensed tools into your research or educational work.
 
 By engaging in this activity, you'll gain practical experience in navigating the landscape of open-source software, understanding licensing terms, and properly crediting the works you use. These skills will serve you well as you continue to explore the use and creation of openly licensed resources in your work.

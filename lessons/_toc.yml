@@ -5,3 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: use_licensed_works
+- file: license_your_own_work
