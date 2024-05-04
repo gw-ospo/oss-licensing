@@ -133,9 +133,9 @@ Biopython
 : [Biopython](https://biopython.org) is a set of tools for computational biology and bioinformatics written in Python. It is released under the Biopython License Agreement, but many files are [dual-licensed](https://github.com/biopython/biopython/blob/master/LICENSE.rst) under the BSD 3-Clause License. These are both permissive licenses allowing all uses and redistribution, provided that the copyright notice is retained. The Biopython License, however, is not OSI-approved
 
 ````{margin}
-:::{seealso}
+```{note}
 The Molecular Sciences Software Institute (MolSSI) maintains a list of [community code partners](https://molssi.org/molssi-community-code-partners/) that includes many programs used in chemistry.
-:::
+```
 ````
 
 LAMMPS
@@ -152,4 +152,4 @@ QGIS
 
 ## Sources
 
-This lesson is based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
+Portions of this lesson are based on materials from the presentation by {cite:t}`barba2017-licensing`, which drew from {cite:t}`morin2012quick`.
