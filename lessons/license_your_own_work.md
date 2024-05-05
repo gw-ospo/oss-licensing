@@ -98,6 +98,20 @@ It's important to note that *CC licenses are not appropriate for software*, as t
 
 ## Empowering others to build upon your work
 
+````{margin}
+```{admonition} How to choose?
+For academic work: simple and permissive is best. For example, you could use BSD-3 for code, CC0 or CC-BY for data, and CC-BY for other materials.
+```
+````
 By licensing your code, data, and other research outputs under permissive open licenses, you empower others to build upon your work and make new discoveries. You create a foundation of openness and collaboration that can accelerate progress and drive innovation in your field.
 
 As you make decisions about licensing, always keep in mind the bigger picture of how your work can benefit the wider scientific community. By choosing licenses that maximize access and reuse, you can amplify your impact and contribute to a more open and equitable future for research.
+
+### Commercial uses and copyleft licenses
+
+All open-source licenses, by definition, *allow for commercial uses* of the licensed software. This is explicitly stated in point 6 of the Open Source Definition, which requires that an open-source license "must not restrict anyone from making use of the program in a specific field of endeavor," including commercial endeavors.
+
+However, some businesses perceive copyleft licenses (like the GNU GPL) as less friendly to commercial interests. This is because copyleft licenses require any derivative works or modifications to be released under the same license terms. For companies that want to create proprietary software based on open-source components, this "share-alike" requirement can be seen as a barrier.
+In contrast, permissive licenses (like MIT or Apache 2.0) do not have this share-alike requirement, making them more appealing for businesses that want to use open source software in proprietary products.
+
+It's important to note that this perception of copyleft licenses as "business-unfriendly" is not universally shared, and many successful commercial projects do use and contribute to copyleft-licensed software. Nonetheless, it's a factor to consider when choosing a license for your own projects, especially if you aim to encourage commercial adoption and collaboration.
