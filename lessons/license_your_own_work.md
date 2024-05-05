@@ -21,7 +21,7 @@ Let's dive into the importance of licensing your own research outputs and how it
 
 ## Why license your research outputs?
 
-As a researcher, you pour your heart and soul into your work, whether it's writing software, collecting and analyzing datasets, or creating insightful visualizations and content. So what happens to your research outputs once you've published your findings?
+As a researcher, you pour your heart and soul into your work, whether it's writing software, collecting and analyzing datasets, or creating insightful visualizations and content. *So what happens to your research outputs once you've published your findings?*
 
 Licensing your work is an important step in ensuring that your contributions have the greatest possible impact and reach. By choosing the right license, you can control how others use, modify, and share your work, while also receiving proper credit and recognition for your efforts.
 
@@ -34,7 +34,7 @@ In scientific research, reproducibility and transparency are essential. By licen
 Openly licensing your research outputs shows your commitment to these scientific norms and helps to foster a culture of openness and collaboration. It shows that you stand behind your work and are willing to subject it to the scrutiny and feedback of your peers.
 
 ```{sidebar}
-Funders and publishers increasingly demand open science. Stay ahead of the curve by licensing your research outputs.
+**Funders and publishers increasingly demand open science. Stay ahead of the curve by licensing your research outputs.**
 ```
 
 Moreover, many funding agencies and journals now require or strongly encourage researchers to make their outputs publicly available under open licenses. By proactively licensing your work, you can stay ahead of these requirements and demonstrate your dedication to open and transparent research practices.
@@ -57,3 +57,47 @@ You can establish yourself as a leader in open and reproducible research, and th
 In fact, the skills and knowledge you gain by navigating the licensing process will serve you well throughout your career. You'll be equipped to understand and manage intellectual property, work effectively with technology transfer offices, and make informed decisions about how to share and promote your work.
 
 So, as we move forward in this section, keep in mind the many benefits of licensing your research outputs. By taking control of how your work is used and shared, you can amplify your impact, accelerate discovery, and unlock new opportunities for your career and your field.
+
+## Licensing code, data, and other content types
+
+As a researcher, you produce a wide variety of outputs, each with its own unique characteristics and licensing considerations. In this section, we'll break down some factors to keep in mind when licensing software, data, and other content types.
+
+### Considerations for licensing software
+
+When it comes to licensing software, it's essential to use *standard*, widely-recognized licenses that have been vetted by the open-source community. The **Open Source Initiative (OSI)** maintains a list of [approved licenses](https://opensource.org/licenses) that are well-understood and legally sound.
+
+[Choose a license](http://choosealicense.com) that aligns with your values and goals. For academic and research software, we *strongly recommend using permissive open-source licenses* like the [MIT](https://choosealicense.com/licenses/mit/), [BSD-3](https://choosealicense.com/licenses/bsd-3-clause/), or [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) licenses. These licenses place minimal restrictions on how others can use, modify, and distribute your code, while still ensuring that you receive proper credit and attribution.
+
+```{note}
+Permissive licenses are particularly well-suited for academic settings, as they allow for the greatest flexibility and potential for collaboration and reuse. They also reduce barriers to adoption and make it easier for others to integrate your code into their own projects, even if they are using different licenses.
+```
+
+When choosing a license for your software, be sure to consider any dependencies or third-party libraries that you are using, as their licenses may impact your choice. Whenever possible, aim for license compatibility to avoid legal conflicts and make it easier for others to use and build upon your work.
+
+### Licensing options for research data
+
+Data licensing is a complex and evolving area, but keep in mind some key principles. As a general rule, *aim to make your data as open and accessible as possible, while still respecting any privacy, security, or ethical concerns.*
+
+For most research data, we recommend using a permissive license like the [Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/) public-domain dedication or the [CC-BY license](https://choosealicense.com/licenses/cc-by-4.0/). These options allow others to freely use, share, and adapt your data, while still giving you credit as the original creator.
+
+In some cases, you may need to use a more restrictive license or distribution method to protect sensitive or confidential data. However, whenever possible, try to provide at least a subset or aggregated version of your data under an open license to support reproducibility and reuse.
+
+When licensing your data, be sure to clearly document any terms of use, attribution requirements, or other conditions. This will help others understand how they can responsibly use and share your data.
+
+### Creative Commons licenses for text, media, and other content
+
+For non-software outputs like text, images, videos, and other creative works, the Creative Commons (CC) licenses are the gold standard. These licenses provide a simple, standardized way to grant permissions and specify attribution requirements for your work.
+
+The [CC-BY license](https://choosealicense.com/licenses/cc-by-4.0/) is the most permissive option, allowing others to freely use, share, and adapt your work as long as they give you credit. The [CC-BY-SA](https://choosealicense.com/licenses/cc-by-sa-4.0/) license adds a "share-alike" requirement, meaning that any adaptations must be shared under the same license terms. The CC-BY-ND license prohibits derivative works, while the CC-BY-NC license restricts commercial use.
+
+When choosing a CC license, consider your goals and the potential impact you want your work to have. In general, we recommend using the most permissive license that still aligns with your needs and values.
+
+```{warning} 
+It's important to note that *CC licenses are not appropriate for software*, as they do not address key issues like source code distribution, patent rights, and warranty disclaimers. Stick to OSI-approved licenses for software, and use CC licenses for other types of content.
+```
+
+## Empowering others to build upon your work
+
+By licensing your code, data, and other research outputs under permissive open licenses, you empower others to build upon your work and make new discoveries. You create a foundation of openness and collaboration that can accelerate progress and drive innovation in your field.
+
+As you make decisions about licensing, always keep in mind the bigger picture of how your work can benefit the wider scientific community. By choosing licenses that maximize access and reuse, you can amplify your impact and contribute to a more open and equitable future for research.
