@@ -63,6 +63,9 @@ So, as we move forward in this section, keep in mind the many benefits of licens
 As a researcher, you produce a wide variety of outputs, each with its own unique characteristics and licensing considerations. In this section, we'll break down some factors to keep in mind when licensing software, data, and other content types.
 
 ### Considerations for licensing software
+````{margin}
+```{danger} You should *not* modify the text of a standard license in any way.
+````
 
 When it comes to licensing software, it's essential to use *standard*, widely-recognized licenses that have been vetted by the open-source community. The **Open Source Initiative (OSI)** maintains a list of [approved licenses](https://opensource.org/licenses) that are well-understood and legally sound.
 
@@ -109,7 +112,7 @@ As you make decisions about licensing, always keep in mind the bigger picture of
 
 ### Commercial uses and copyleft licenses
 
-All open-source licenses, by definition, *allow for commercial uses* of the licensed software. This is explicitly stated in point 6 of the Open Source Definition, which requires that an open-source license "must not restrict anyone from making use of the program in a specific field of endeavor," including commercial endeavors.
+All open-source licenses, by definition, *allow for commercial uses* of the licensed software. This is explicitly stated in point 6 of the [Open Source Definition](https://opensource.org/definition-annotated), which requires that an open-source license "must not restrict anyone from making use of the program in a specific field of endeavor," including commercial endeavors.
 
 However, some businesses perceive copyleft licenses (like the GNU GPL) as less friendly to commercial interests. This is because copyleft licenses require any derivative works or modifications to be released under the same license terms. For companies that want to create proprietary software based on open-source components, this "share-alike" requirement can be seen as a barrier.
 In contrast, permissive licenses (like MIT or Apache 2.0) do not have this share-alike requirement, making them more appealing for businesses that want to use open source software in proprietary products.
