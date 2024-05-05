@@ -14,7 +14,7 @@ Dr. Johnson realizes that by not attaching a license to her software, she uninte
 Software is a creative work, and copyright is automatically attached to it the moment it is created.
 ```
 
-To rectify the situation, Dr. Johnson decides to research software licenses and choose one that aligns with her goals of fostering collaboration and open science. By attaching a standard open source license to her software, she can grant users the necessary permissions and freedoms, while still retaining credit for her work. This experience teaches her the importance of specifying a license for her software projects from the outset, ensuring that her work can be used, shared, and built upon by others in the scientific community.
+To rectify the situation, Dr. Johnson decides to research software licenses and choose one that aligns with her goals of fostering collaboration and open science. By attaching a standard open-source license to her software, she can grant users the necessary permissions and freedoms, while still retaining credit for her work. This experience teaches her the importance of specifying a license for her software projects from the outset, ensuring that her work can be used, shared, and built upon by others in the scientific community.
 
 `````
 
@@ -35,7 +35,7 @@ In essence, open licensing refers to a set of principles and legal frameworks th
  ```
 ````
 
-Open source software is perhaps the most well-known example of open licensing. [Open source licenses](https://opensource.org/licenses), such as the MIT, BSD, and Apache licenses, allow users to access the source code of a software program, study how it works, modify it to suit their needs, and redistribute the modified versions.
+Open-source software is perhaps the most well-known example of open licensing. [Open-source licenses](https://opensource.org/licenses), such as the MIT, BSD, and Apache licenses, allow users to access the source code of a software program, study how it works, modify it to suit their needs, and redistribute the modified versions.
 
 Similarly, the open data movement advocates for making research data openly available and reusable, often under licenses like the [Open Data Commons licenses](https://opendatacommons.org/licenses/) or [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/) public domain dedication. This enables other researchers to validate findings, combine datasets, and build upon existing work.
 
@@ -130,7 +130,7 @@ R
 : R is a programming language and environment for statistical computing and graphics. It is [licensed](https://www.r-project.org/Licenses/) under the GNU General Public License (GPL) version 2 or later. The GPL is a copyleft license, meaning that any derivative works must also be distributed under the same license terms. You can use, modify, and distribute R and its packages, but any modifications you make must also be open-source under the GPL.
 
 Biopython
-: [Biopython](https://biopython.org) is a set of tools for computational biology and bioinformatics written in Python. It is released under the Biopython License Agreement, but many files are [dual-licensed](https://github.com/biopython/biopython/blob/master/LICENSE.rst) under the BSD 3-Clause License. These are both permissive licenses allowing all uses and redistribution, provided that the copyright notice is retained. The Biopython License, however, is not OSI-approved
+: [Biopython](https://biopython.org) is a set of tools for computational biology and bioinformatics written in Python. It is released under the Biopython License Agreement, but many files are [dual-licensed](https://github.com/biopython/biopython/blob/master/LICENSE.rst) under the BSD 3-Clause License. These are both permissive licenses allowing all uses and redistribution, provided that the copyright notice is retained. The Biopython License, however, is not OSI-approved.
 
 ````{margin}
 ```{note}
@@ -168,7 +168,7 @@ One initiative that is helping to promote the proper citation and recognition of
 
 What sets JOSS apart is its focus on the software itself, rather than the research results obtained using the software. Each JOSS article includes a detailed description of the software, its purpose, functionality, and how it can be used by other researchers. Importantly, JOSS articles also provide a standardized way to cite the software, making it easier for others to properly credit and reference the work.
 
-By publishing in JOSS, software developers can receive academic credit for their work, similar to publishing a research article. This helps to incentivize the creation and sharing of high-quality, well-documented open source software, and promotes a culture of recognition and collaboration within the research community.
+By publishing in JOSS, software developers can receive academic credit for their work, similar to publishing a research article. This helps to incentivize the creation and sharing of high-quality, well-documented open-source software, and promotes a culture of recognition and collaboration within the research community.
 
 `````
 

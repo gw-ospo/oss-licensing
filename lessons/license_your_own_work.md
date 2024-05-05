@@ -16,3 +16,44 @@ Dr. Cruz is also aware that her institution has specific policies and processes 
 ````
 
 In the following sections, we will explore key considerations and best practices for licensing research outputs, including code, data, and other content types. We will discuss how to choose appropriate open licenses, work with institutional policies and processes, and effectively communicate and share openly licensed research outputs with the scientific community.
+
+Let's dive into the importance of licensing your own research outputs and how it can benefit you, your collaborators, and the scientific community as a whole.
+
+## Why license your research outputs?
+
+As a researcher, you pour your heart and soul into your work, whether it's writing software, collecting and analyzing datasets, or creating insightful visualizations and content. So what happens to your research outputs once you've published your findings?
+
+Licensing your work is an important step in ensuring that your contributions have the greatest possible impact and reach. By choosing the right license, you can control how others use, modify, and share your work, while also receiving proper credit and recognition for your efforts.
+
+Here are some reasons why licensing your research outputs is important.
+
+### Reproducibility, transparency, and scientific norms
+
+In scientific research, reproducibility and transparency are essential. By licensing your code, data, and other materials, you make it possible for other researchers to verify your results, build upon your work, and push your field forward.
+
+Openly licensing your research outputs shows your commitment to these scientific norms and helps to foster a culture of openness and collaboration. It shows that you stand behind your work and are willing to subject it to the scrutiny and feedback of your peers.
+
+```{sidebar}
+Funders and publishers increasingly demand open science. Stay ahead of the curve by licensing your research outputs.
+```
+
+Moreover, many funding agencies and journals now require or strongly encourage researchers to make their outputs publicly available under open licenses. By proactively licensing your work, you can stay ahead of these requirements and demonstrate your dedication to open and transparent research practices.
+
+### Collaboration and building on existing work
+
+One of the most powerful aspects of openly licensing your research outputs is that it facilitates (and even invites) others to collaborate with you and build upon your work. By pre-emptively granting permissions for others to use, modify, and share your code, data, and materials, you open up new opportunities for collaboration and innovation.
+
+Imagine a scenario where another researcher comes across your openly licensed software and realizes that it could be adapted to solve a problem they've been working on. By building upon your work, they are able to make new discoveries and advance their own research. In turn, they may contribute back to your project, leading to a virtuous cycle of collaboration and mutual benefit.
+
+Or perhaps a teacher discovers your openly licensed dataset and incorporates it into a lesson plan, exposing a new generation of students to your work and inspiring them to pursue careers in your field.
+
+By licensing your research outputs, you create a ripple effect of impact that extends far beyond your own lab or institution. You enable others to stand on your shoulders and push the boundaries of what's possible.
+
+### Maximizing your impact and future opportunities
+
+As you progress in your career, the impact and reach of your work compounds over time. Licensing your research outputs is one strategy for maximizing your impact and opening up new opportunities for collaboration, funding, and recognition.
+You can establish yourself as a leader in open and reproducible research, and thus attract top collaborators, secure funding from agencies that prioritize openness, and build a reputation as an innovator in your field.
+
+In fact, the skills and knowledge you gain by navigating the licensing process will serve you well throughout your career. You'll be equipped to understand and manage intellectual property, work effectively with technology transfer offices, and make informed decisions about how to share and promote your work.
+
+So, as we move forward in this section, keep in mind the many benefits of licensing your research outputs. By taking control of how your work is used and shared, you can amplify your impact, accelerate discovery, and unlock new opportunities for your career and your field.
