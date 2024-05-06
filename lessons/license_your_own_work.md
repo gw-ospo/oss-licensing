@@ -118,3 +118,21 @@ However, some businesses perceive copyleft licenses (like the GNU GPL) as less f
 In contrast, permissive licenses (like MIT or Apache 2.0) do not have this share-alike requirement, making them more appealing for businesses that want to use open source software in proprietary products.
 
 It's important to note that this perception of copyleft licenses as "business-unfriendly" is not universally shared, and many successful commercial projects do use and contribute to copyleft-licensed software. Nonetheless, it's a factor to consider when choosing a license for your own projects, especially if you aim to encourage commercial adoption and collaboration.
+
+### What about a non-commercial CC license?
+
+When it comes to other types of content, such as text, images, or educational materials, some creators may be tempted to use licenses that restrict commercial use, like the Creative Commons CC-BY-NC license. However, we strongly advise against using non-commercial clauses in licenses for scholarly works, as they can be problematic.
+
+The main issue with non-commercial licenses is that the term "commercial" is not clearly defined and can be interpreted in many different ways. This ambiguity can lead to confusion and uncertainty about how the licensed work can be used, which undermines the very purpose of licensing your works.
+
+For example, consider a faculty member who uses CC-BY-NC licensed material in their teaching and research. If this faculty member also engages in consulting work, would using the material be considered a commercial use? Or imagine a student who uses CC-BY-NC licensed content in their coursework and later develops a business idea inspired by what they learned. Would this constitute a violation of the non-commercial clause?
+
+These scenarios illustrate how difficult it is to draw clear lines between commercial and non-commercial uses in academic settings. Researchers, educators, and students often engage in a mix of activities that blur the boundaries between academia and industry, making it impractical to enforce strict non-commercial provisions.
+Moreover, non-commercial clauses can have unintended consequences for the dissemination and impact of scholarly works. They can discourage the use and adaptation of licensed materials in contexts that may not be strictly academic but still serve important educational or research purposes. This can limit the reach and influence of the work and hinder collaboration and innovation.
+
+```{sidebar}
+**While it may be tempting to try to restrict commercial uses of your work, in practice, such restrictions often create more barriers than benefits for the academic community.**
+```
+
+Instead of using non-commercial licenses, we recommend using more permissive licenses like CC-BY or CC-BY-SA for scholarly content. These licenses allow for a wider range of uses while still ensuring that creators receive proper attribution and credit for their work. They also provide greater clarity and certainty for users, making it easier for others to build upon and share the licensed material.
+
