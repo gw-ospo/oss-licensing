@@ -136,3 +136,61 @@ Moreover, non-commercial clauses can have unintended consequences for the dissem
 
 Instead of using non-commercial licenses, we recommend using more permissive licenses like CC-BY or CC-BY-SA for scholarly content. These licenses allow for a wider range of uses while still ensuring that creators receive proper attribution and credit for their work. They also provide greater clarity and certainty for users, making it easier for others to build upon and share the licensed material.
 
+## Practical guidelines and tips
+
+Now that you realize the importance of licensing and the different types of licenses available, let's review some practical steps you can take to ensure your work is properly licensed and attributed.
+
+### Picking a license when creating a code repository on GitHub
+
+When [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub, you can easily add a license to your project. After entering your repository name and description, look for the "Choose a license" dropdown menu. GitHub offers a selection of common open-source licenses, including MIT, Apache 2.0, and GNU GPL. Choose the license that best fits your needs and goals, and GitHub will automatically create a LICENSE file in your repository with the full text of the license.
+For example, if you want to use the MIT license for your project, simply select "MIT License" from the dropdown menu, and GitHub will handle the rest.
+
+### Adding a LICENSE file manually
+
+If you're not using GitHub or want to [add a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) to an existing project, you can create a LICENSE file manually. Simply create a new text file named "LICENSE" in the root directory of your project, and copy the full text of your chosen license into the file.
+For instance, if you want to use the Apache 2.0 license, you would copy the license text from the [Apache website](https://www.apache.org/licenses/LICENSE-2.0) or the [OSI website](https://opensource.org/license/apache-2-0) and paste it into your LICENSE file.
+
+### Choosing a license when depositing data in a hosting service
+
+Many data hosting services, such as [Zenodo](https://zenodo.org) and [Figshare](http://figshare.com), allow you to specify a license for your datasets during the upload process. Look for a "License" or "Rights" field in the metadata form, and select the appropriate license from the available options.
+For example, if you're depositing a dataset on Zenodo and want to use the Creative Commons CC0 dedication, choose "CC0" from the license picker.
+See the Zenodo documentation on [Licenses and rights](https://help.zenodo.org/docs/deposit/describe-records/licenses/) and Figshare's page on [Copyright and License Policy](https://help.figshare.com/article/copyright-and-license-policy).
+
+### Adding license badges to README files or the cover page of a document or website
+
+License badges are small, visual indicators that quickly convey the license terms of your project. They are commonly used in README files, but can also be added to the cover page of a document or website.
+To add a license badge, simply copy the badge code from a reputable source and paste it into your README file or cover page. For example, to add an MIT license badge from [Shields.io](Shields.io), you would include the following code in your Markdown file:
+
+```
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+```
+This will display a small badge that says "License: MIT" and links to the license text, like this:
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+### Writing a copyright notice with license details
+
+In addition to including the full text of your chosen license, it's a good practice to add a brief copyright notice and license summary to your project's README file or documentation. This makes it clear to users how they can use and distribute your work.
+
+A typical copyright notice and license summary might look like this:
+
+```
+Copyright (c) [Year] [Your Name]
+
+This project is licensed under the terms of the [License Name] license.
+You are free to use, modify, and distribute this work, subject to the 
+conditions specified in the LICENSE file.
+```
+
+For example:
+
+```
+Copyright (c) 2023 Jane Doe
+
+This dataset is licensed under the terms of the Creative Commons 
+Attribution 4.0 International (CC BY 4.0) license. You are free to 
+share and adapt this dataset, as long as you give appropriate credit 
+and indicate if changes were made. See the LICENSE file for details.
+```
+
+By following these practical guidelines and tips, you can ensure that your research outputs are properly licensed and attributed, making it easier for others to use, share, and build upon your work.
