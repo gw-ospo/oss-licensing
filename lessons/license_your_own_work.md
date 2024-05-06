@@ -65,6 +65,7 @@ As a researcher, you produce a wide variety of outputs, each with its own unique
 ### Considerations for licensing software
 ````{margin}
 ```{danger} You should *not* modify the text of a standard license in any way.
+```
 ````
 
 When it comes to licensing software, it's essential to use *standard*, widely-recognized licenses that have been vetted by the open-source community. The **Open Source Initiative (OSI)** maintains a list of [approved licenses](https://opensource.org/licenses) that are well-understood and legally sound.
@@ -194,3 +195,66 @@ and indicate if changes were made. See the LICENSE file for details.
 ```
 
 By following these practical guidelines and tips, you can ensure that your research outputs are properly licensed and attributed, making it easier for others to use, share, and build upon your work.
+
+Let's complete this lesson by considering institutional support for open licensing and how you can work with your institution to ensure your research outputs are openly licensed and shared.
+
+## Institutional support for open licensing
+
+As a researcher, you don't operate in a vacuum. Your work is supported by and connected to your institution, which has its own policies, resources, and expectations regarding intellectual property (IP) and licensing. It's important to understand and engage with these institutional factors for successfully sharing your research outputs.
+
+### Familiarizing yourself with your institution's IP policies
+
+````{margin}
+```{note}
+See the [Statement on Intellectual Property](https://www.aaup.org/report/statement-intellectual-property) of the American Association of University Professors, AAUP.
+```
+````
+
+At many colleges and universities in the United States, the principles of academic freedom dictate that faculty, students, and some staff (librarians, for example) own the rights to their research and scholarly creations. This means that, as an author, you traditionally retain the copyright to your work and have the authority to decide how it is disseminated, including the choice of license.
+
+However, it's essential to familiarize yourself with your institution's specific IP policies, as they may have some variations or exceptions. For example, some institutions may claim ownership of certain types of work, such as software developed using significant university resources or projects funded by specific sources. 
+
+To understand your rights and responsibilities, consult your institution's IP policy documents, faculty handbook, or research administration office. If you have questions or concerns, don't hesitate to reach out to your department chair, librarian, or legal counsel for guidance.
+
+```{admonition} GW Copyright Policies
+:class: tip
+The [GW Copyright Policy](https://compliance.gwu.edu/copyright) says that faculty, librarians, and students retain the copyright of any works done:
+> in pursuit of their normal scholarly, professional, or academic responsibilities, including normal use of the university's physical facilities, by their own initiative...
+> Sponsored Research, without a specific agreement for copyright, shall be considered scholarly work and the copyright in such works shall belong to the author(s), not to the university. 
+```
+
+### Leveraging resources and expertise from your Open Source Program Office (OSPO)
+
+Many academic institutions have established Open Source Program Offices (OSPOs) to support and promote open-source development and licensing. These offices serve as a valuable resource for researchers looking to openly license their work and navigate the complexities of IP policies and processes.
+
+Your institution's OSPO can provide a range of services and expertise, including:
+
+- Guidance on choosing appropriate open-source licenses for your research outputs
+- Assistance with reviewing license agreements and drafting copyright notices
+- Education and training on open-source best practices and community norms
+- Support for collaborating with external open-source projects and communities
+- Advocacy for open licensing and open access policies within your institution
+
+If your institution has an OSPO, reach out to them early in your research process to learn about the resources and support they offer. They can be a powerful ally in helping you achieve your open licensing goals and maximizing the impact of your work.
+
+### Advocating for open licensing of your research outputs
+
+While many institutions have embraced open licensing and open access, in some cases where you may need to advocate for these practices within your research group or department. This is particularly relevant for graduate students and postdocs, who may need to discuss open licensing with their supervisors or principal investigators (PIs).
+
+If you're a graduate student or postdoc, consider raising the topic of open licensing during research group meetings or one-on-one discussions with your supervisor. Come prepared with a clear rationale for why open licensing is important for your work and how it aligns with the values and goals of your field. Highlight the potential benefits, such as increased visibility, citation impact, and opportunities for collaboration and reuse.
+
+````{margin}
+```{admonition} Bonus advice
+Write into your grant proposals that your research software will be released under an OSI-approved license. If you're lucky to have your grant funded, the condition of open-source code release becomes part of the contract with the university.
+```
+````
+
+For PIs and research leaders, one effective way to advocate for open licensing is to include explicit language in your grant proposals and funding applications. By making a commitment to openly license your research outputs, you can ensure that this becomes a contractual obligation between your institution and the funding agency. It can also provide a strong incentive for your institution to support and facilitate open licensing practices.
+
+Additionally, consider engaging with your institution's faculty governance bodies, such as the faculty senate or research committee, to advocate for policies and practices that promote open licensing and open access. By working collectively with your colleagues, you can help shape an institutional culture that values and rewards openness and transparency in research.
+
+### Conclusion
+
+Navigating institutional policies and processes related to open licensing can seem daunting, but remember that you are not alone. By familiarizing yourself with your institution's IP policies, leveraging the resources and expertise of your OSPO, and actively advocating for open licensing practices, you can ensure that your research outputs are widely shared and have the greatest possible impact.
+
+As you work to openly license your own research, you are advancing your own career and reputation while also contributing to a larger movement towards open and equitable access to knowledge. _Your efforts, combined with those of your colleagues and institution, can help shape a future where the fruits of academic research are freely and openly available to all._
