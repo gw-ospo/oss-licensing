@@ -159,12 +159,12 @@ See the Zenodo documentation on [Licenses and rights](https://help.zenodo.org/do
 ### Adding license badges to README files or the cover page of a document or website
 
 License badges are small, visual indicators that quickly convey the license terms of your project. They are commonly used in README files, but can also be added to the cover page of a document or website.
-To add a license badge, simply copy the badge code from a reputable source and paste it into your README file or cover page. For example, to add an MIT license badge from [Shields.io](Shields.io), you would include the following code in your Markdown file:
+To add a license badge, simply copy the badge code from a reputable source and paste it into your README file or cover page. For example, to add an MIT license badge from [Shields.io](http://shields.io), you would include the following code in your Markdown file:
 
 ```
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ```
-This will display a small badge that says "License: MIT" and links to the license text, like this:
+This will display a small badge that says "License: MIT", like this:
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
