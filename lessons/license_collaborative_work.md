@@ -23,7 +23,7 @@ The issues raised in this vignette are in fact common and as thorny as they soun
 
 ## Establishing licensing policies for collaborative projects
 
-When embarking on a collaborative research or educational roject, it's important to have open and honest discussions about open licensing from the very beginning. By agreeing on a licensing policy early on, you can avoid misunderstandings, ensure everyone's needs and expectations are met, and create a strong foundation for your team's work.
+When embarking on a collaborative research or educational project, it's important to have open and honest discussions about open licensing from the very beginning. By agreeing on a licensing policy early on, you can avoid misunderstandings, ensure everyone's needs and expectations are met, and create a strong foundation for your team's work.
 
 ### Agreeing on a license early in the project lifecycle
 In any collaborative open-source project it's important to agree on a license as early as possible. This may seem like a daunting task, especially when you're eager to dive into the research itself, but investing time in these discussions upfront can save you from headaches and conflicts down the road.
