@@ -73,7 +73,7 @@ Remember, a key to success in collaborative open-source acedemic work is open co
 
 ### Collaborations involving U.S. federal employees
 
-When collaborating with U.S. federal employees on open-source projects, it's important to be aware of the unique licensing considerations that apply to their work. In the United States, software created by civil servants in the course of their official duties is not subject to copyright protection, which can have significant implications for how that work is released and used.
+When collaborating with U.S. federal employees on open-source projects, you need to be aware of the unique licensing considerations that apply to their work. In the United States, software created by civil servants in the course of their official duties is _not subject to copyright protection_, which can have significant implications for how that work is released and used.
 
 ```{image} ../assets/fed_logos.png
 :alt: logos of some federal agencies involved in research
@@ -94,8 +94,6 @@ This lack of copyright protection can create challenges when integrating work by
 However, it's important to note that copyright protections are territorial, meaning that the rules around government works and copyright vary from country to country. While a civil servant's work may be in the public domain in the United States, the government may still hold copyright in those same works under the laws of other nations. This can create complex situations where the use and licensing of government-created software may be subject to different rules depending on the jurisdiction.
 
 In some cases, applying an open-source license to government-created work, even if not strictly necessary in the United States, can help clarify how that work can be used worldwide. By explicitly granting permissions through a license, collaborators and users can have a clearer understanding of their rights and obligations when using the software.
-
-It's also worth noting that works produced by civil servants in collaboration with others may be subject to different rules depending on the terms of the collaboration. If a civil servant collaborates with non-government employees, such as academic researchers or private sector developers, the resulting work may be protected by copyright to the extent of the non-government contributors' involvement.
 
 To navigate these complex issues, it's essential for collaborative research teams to have open and proactive discussions about licensing when working with federal employees. Only by understanding the unique considerations that apply to government-created work, teams can make informed decisions about how to release and license their software to maximize its impact and ensure its widest possible use.
 
