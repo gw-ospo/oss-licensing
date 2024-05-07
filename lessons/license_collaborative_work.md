@@ -68,7 +68,19 @@ Remember, a key to success in collaborative open-source acedemic work is open co
 
 When collaborating with U.S. federal employees on open-source projects, it's important to be aware of the unique licensing considerations that apply to their work. In the United States, software created by civil servants in the course of their official duties is not subject to copyright protection, which can have significant implications for how that work is released and used.
 
+```{image} ../assets/fed_logos.png
+:alt: logos of some federal agencies involved in research
+:width: 600px
+:align: center
+```
+
 Under [17 U.S. Code § 105](https://www.law.cornell.edu/uscode/text/17/105), known as the _"Subject matter of copyright: United States Government works,"_ the U.S. government does not receive copyright protection for the work of its employees. This means that when a civil servant creates software as part of their job, that software cannot be copyrighted, and when it is released to the public, it enters the public domain in the United States. Once in the public domain, anyone can use the software for any purpose without attribution or restriction.
+
+````{margin}
+```{tip}
+The collaborators who are _not_ government employees can create the code repository on GitHub and use an OSI license, then federal employees can _contribute_ to the OSS project that is “owned” by the outside org more easily than getting approvals for release of in-house software.
+```
+````
 
 This lack of copyright protection can create challenges when integrating work by civil servants into open-source projects. Most open-source licenses, such as the MIT, BSD, and GNU GPL licenses, apply only to works that are protected by applicable copyright or patent law. Because software created by civil servants is not protected by copyright, these licenses generally do not apply to their contributions.
 
