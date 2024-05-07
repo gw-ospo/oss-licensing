@@ -63,3 +63,21 @@ Some steps for documenting and communicating your licensing policies include:
 Establishing clear licensing policies and communicating them effectively helps create a transparent and inclusive environment that encourages collaboration and community engagement.
 
 Remember, a key to success in collaborative open-source acedemic work is open communication and a shared commitment to your project's goals and values. By investing time in discussing and documenting your licensing policies early on, you set your team up for a more productive, impactful, and rewarding collaboration.
+
+### Collaborations involving U.S. federal employees
+
+When collaborating with U.S. federal employees on open-source projects, it's important to be aware of the unique licensing considerations that apply to their work. In the United States, software created by civil servants in the course of their official duties is not subject to copyright protection, which can have significant implications for how that work is released and used.
+
+Under [17 U.S. Code § 105](https://www.law.cornell.edu/uscode/text/17/105), known as the _"Subject matter of copyright: United States Government works,"_ the U.S. government does not receive copyright protection for the work of its employees. This means that when a civil servant creates software as part of their job, that software cannot be copyrighted, and when it is released to the public, it enters the public domain in the United States. Once in the public domain, anyone can use the software for any purpose without attribution or restriction.
+
+This lack of copyright protection can create challenges when integrating work by civil servants into open-source projects. Most open-source licenses, such as the MIT, BSD, and GNU GPL licenses, apply only to works that are protected by applicable copyright or patent law. Because software created by civil servants is not protected by copyright, these licenses generally do not apply to their contributions.
+
+However, it's important to note that copyright protections are territorial, meaning that the rules around government works and copyright vary from country to country. While a civil servant's work may be in the public domain in the United States, the government may still hold copyright in those same works under the laws of other nations. This can create complex situations where the use and licensing of government-created software may be subject to different rules depending on the jurisdiction.
+
+In some cases, applying an open-source license to government-created work, even if not strictly necessary in the United States, can help clarify how that work can be used worldwide. By explicitly granting permissions through a license, collaborators and users can have a clearer understanding of their rights and obligations when using the software.
+
+It's also worth noting that works produced by civil servants in collaboration with others may be subject to different rules depending on the terms of the collaboration. If a civil servant collaborates with non-government employees, such as academic researchers or private sector developers, the resulting work may be protected by copyright to the extent of the non-government contributors' involvement.
+
+To navigate these complex issues, it's essential for collaborative research teams to have open and proactive discussions about licensing when working with federal employees. Only by understanding the unique considerations that apply to government-created work, teams can make informed decisions about how to release and license their software to maximize its impact and ensure its widest possible use.
+
+When in doubt, it's always a good idea to consult with your institution's legal counsel or Open Source Program Office (OSPO) for guidance on how to handle these situations. They can help you understand the specific laws and policies that apply to your project and work with you to develop a licensing strategy that meets your goals while respecting the legal status of government-created work.
