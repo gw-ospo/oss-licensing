@@ -46,6 +46,13 @@ Some key considerations include:
 - Understanding your intended audience or user community
 - Alignment with your institution's IP policies and any funder requirements
 
+````{margin}
+```{admonition} What if you need to change?
+:class: attention
+Changing the licensing terms of your open-source project later on may require that you get every contributor's explicit approval, which could be cumbersome. Here's an example: the Biopython project used a non OSI-approved license and later decided to switch to BSD-3, leading to a [years-long discussion](https://github.com/biopython/biopython/issues/898) and a dual-licensing transition.
+```
+````
+
 Keep in mind that while it's important to choose a license that meets your needs, you should choose a _standard_, widely-used license whenever possible. This will avoid confusion and make it easier for others to understand and contribute to your project.
 
 ### Documenting and communicating the project's licensing policies
