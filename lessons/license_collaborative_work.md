@@ -98,3 +98,34 @@ In some cases, applying an open-source license to government-created work, even 
 To navigate these complex issues, it's essential for collaborative research teams to have open and proactive discussions about licensing when working with federal employees. Only by understanding the unique considerations that apply to government-created work, teams can make informed decisions about how to release and license their software to maximize its impact and ensure its widest possible use.
 
 When in doubt, it's always a good idea to consult with your institution's legal counsel or Open Source Program Office (OSPO) for guidance on how to handle these situations. They can help you understand the specific laws and policies that apply to your project and work with you to develop a licensing strategy that meets your goals while respecting the legal status of government-created work.
+
+## Managing contributions and licensing in collaborative projects
+
+As your collaborative project grows and attracts new contributors, you need clear policies and processes in place for managing contributions and ensuring that all code and dependencies are properly licensed. This helps maintain the integrity of your project, avoid legal disputes, and foster a healthy, engaged community of contributors.
+
+### Ensuring contributions are properly licensed and compatible with the project's license
+
+It can be a challenge to ensure that all contributions are properly licensed and compatible with a project's chosen license. Aim for clear communications with contributors about the project's licensing policies and expectations, as well as robust processes for reviewing and vetting contributions.
+
+To start, your project's licensing policies should be clearly documented in your repository's README file, CONTRIBUTING guidelines, and any other relevant documentation. This should include any requirements or expectations for contributor licensing.
+
+Some projects choose to use a [Contributor License Agreement (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement) to clarify the terms under which contributions are made and to ensure that the project has the necessary rights to use and distribute those contributions. A CLA is a legal document that contributors must sign before their code can be accepted into the project, and it typically grants the project broad rights to use, modify, and distribute the contributed code.
+However, CLAs have been the subject of some controversy and criticism within the open-source community. Some argue that CLAs create an unnecessary barrier to entry for contributors, particularly for casual or first-time contributors who may be put off by the need to sign a legal document. Others have raised concerns about the asymmetry of power CLAs can create between project maintainers and contributors, as well as potential compatibility issues with certain open-source licenses.
+
+````{margin}
+:::{seealso} [CLA vs. DCO: What's the difference?](https://opensource.com/article/18/3/cla-vs-dco-whats-difference) :::
+````
+
+As an alternative to a CLA, some projects use a Developer Certificate of Origin (DCO) to ensure that contributors have the necessary rights to make their contributions. A DCO is a lightweight mechanism that requires contributors to certify that they have the right to submit their code under the project's open-source license. This can be done through a simple sign-off process in the commit message or pull request, rather than requiring a separate legal document.
+DCOs are often seen as a lower barrier to entry than CLAs, as they don't require contributors to review and sign a complex legal document. They also provide a clear record of contributor attestations without the need for additional paperwork or administrative overhead.
+Regardless of whether you choose to use a CLA, DCO, or other mechanism, the key is to have clear, well-documented policies and processes for ensuring that contributions are properly licensed and compatible with your project's license. This may involve implementing automated checks or manual reviews of incoming code, as well as providing guidance and support to help contributors understand and comply with your licensing requirements.
+
+### Handling licensing issues when integrating third-party code or dependencies
+
+Another challenge is dealing with the integration of third-party code or dependencies. As your project grows and evolves, you may find yourself wanting to incorporate code from other open-source projects or libraries to add new features or functionality.
+When integrating third-party code, carefully review and understand the licensing terms of that code to ensure compatibility with your project's license. This can be a complex and time-consuming process, particularly if the third-party code has its own dependencies or licensing requirements.
+To streamline this process, consider implementing tools or processes for automatically detecting and analyzing the licenses of any third-party code or dependencies you plan to use. This can help identify potential licensing conflicts or compatibility issues early in the integration process, before they become major problems.
+Also clearly document any third-party code or dependencies used in your project, along with their respective licenses and any attribution or notice requirements. This not only helps ensure compliance with the terms of those licenses but provides transparency to your users and contributors about the composition of your project.
+
+If you do encounter licensing issues or conflicts when integrating third-party code, don't panic. Reach out to the maintainers of the third-party project to discuss your concerns and see if there are any options for resolving the issue, such as relicensing the code or finding an alternative implementation. You can also consult with your institution's legal counsel or Open Source Program Office (OSPO) for guidance on how to navigate these situations.
+By proactively managing contributions and licensing issues in your collaborative project, you can create a strong, sustainable foundation for your work and ensure that your project remains legally compliant and community-friendly as it grows and evolves.
