@@ -113,7 +113,7 @@ Some projects choose to use a [Contributor License Agreement (CLA)](https://en.w
 However, CLAs have been the subject of some controversy and criticism within the open-source community. Some argue that CLAs create an unnecessary barrier to entry for contributors, particularly for casual or first-time contributors who may be put off by the need to sign a legal document. Others have raised concerns about the asymmetry of power CLAs can create between project maintainers and contributors, as well as potential compatibility issues with certain open-source licenses.
 
 ::::{margin}
-:::{seealso} [CLA vs. DCO: What's the difference?](https://opensource.com/article/18/3/cla-vs-dco-whats-difference) :::
+:::{seealso} [CLA vs. DCO: What's the difference?](https://opensource.com/article/18/3/cla-vs-dco-whats-difference) and [The Developer Certificate of Origin](https://bssw.io/blog_posts/the-developer-certificate-of-origin) on the BSSw blog.
 ::::
 
 As an alternative to a CLA, some projects use a [Developer Certificate of Origin (DCO)](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin#cite_note-auto-1) to ensure that contributors have the necessary rights to make their contributions. A DCO is a lightweight mechanism that requires contributors to certify that they have the right to submit their code under the project's open-source license. This can be done through a simple sign-off process in the commit message or pull request, rather than requiring a separate legal document.
