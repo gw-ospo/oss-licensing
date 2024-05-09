@@ -145,3 +145,26 @@ Some tools for automating license checks include:
 
 These are only a few examples; several other tools exist for *software composition analysis*, the ongoing and in-depth automatic review of open-source software components and dependencies.
 By incorporating these or similar tools into your project's development workflow, you can streamline the process of managing licenses and ensure ongoing compliance with your project's policies. This not only saves time and effort but also helps reduce the risk of legal issues or conflicts down the road.
+
+
+```{admonition} Vignette: The Open-Source Revolution at Sunnyvale University
+:class: tip
+Dr. Maria Hernandez, a professor of computer science at Sunnyvale University, had always been a strong advocate for open-source licensing in research and education. She had seen firsthand how sharing and collaboration could accelerate innovation and drive progress in her field.
+
+Inspired by her experiences, Dr. Hernandez decided to champion a new initiative at Sunnyvale University: "Open Source for All." She worked with colleagues across departments to develop a series of workshops and resources, based on the essentials of open-source licensing and open-development practices, to help faculty, staff, and students understand the benefits and practicalities of open sharing.
+
+At first, progress was slow. Many researchers were hesitant to share their work openly, fearing loss of control or credit. But as more and more people participated in the workshops and began to apply open-source licenses to their projects, a shift started to occur.
+
+Researchers who had once worked in isolation began to collaborate and build upon each other's work. Students were able to access and contribute to cutting-edge research projects, gaining valuable skills and experience. And as the university's open-source contributions grew, so did its reputation as a hub of innovation and discovery.
+
+Over time, the culture at Sunnyvale University transformed. Open-source licensing became the norm, and researchers who contributed to the community were celebrated and rewarded. The university's open-source projects attracted collaborators from around the world, leading to new breakthroughs and funding opportunities.
+
+As graduates of Sunnyvale University moved on to other institutions and industries, they carried the principles of open-source licensing with them. They became leaders in their fields, known for their commitment to openness, collaboration, and the free exchange of ideas.
+
+Looking back on the success of "Open Source for All," Dr. Hernandez couldn't help but feel proud. What had started as a small initiative had grown into a movement that was changing the face of research and education at Sunnyvale University and beyond. She knew that the impact of embracing open-source licensing would continue to ripple outwards, driving progress and innovation for years to come.
+```
+
+This vignette illustrates the powerful potential of open-source licensing to transform an academic community. By embracing the principles of sharing, collaboration, and transparency, researchers and educators can create a virtuous cycle of innovation and discovery that benefits everyone.
+
+As you complete this course and begin to apply what you've learned to your own work, remember that you too have the power to drive change in your community. By choosing to license your projects openly and contributing to the open-source ecosystem, you become part of a global movement that is shaping the future of research and education.
+So go forth, share your work, and collaborate with others. **Together, we can build a more open, equitable, and innovative world.**
