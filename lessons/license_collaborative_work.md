@@ -128,3 +128,20 @@ Also clearly document any third-party code or dependencies used in your project,
 
 If you do encounter licensing issues or conflicts when integrating third-party code, don't panic. Reach out to the maintainers of the third-party project to discuss your concerns and see if there are any options for resolving the issue, such as relicensing the code or finding an alternative implementation. You can also consult with your institution's legal counsel or Open Source Program Office (OSPO) for guidance on how to navigate these situations.
 By proactively managing contributions and licensing issues in your collaborative project, you can create a strong, sustainable foundation for your work and ensure that your project remains legally compliant and community-friendly as it grows and evolves.
+
+### Automating license checks and compliance
+
+As your collaborative open-source project grows, manually tracking and managing the licenses of all its components can quickly become overwhelming. Fortunately, several tools are available to help automate license checks and ensure compliance with your project's licensing policies.
+Some tools for automating license checks include:
+
+[FOSSA](https://fossa.com/)
+: FOSSA (Free Open Source Software Analysis) is a source-code management platform that helps teams track and manage the licenses of their dependencies, as well as identify and remediate any licensing issues or vulnerabilities. It integrates with popular version-control systems and build tools to provide real-time license analysis and alerts. FOSSA is a paid service with a free tier of 5 repositories; it also offers an open-source command-line tool called [`fossa-cli`](https://github.com/fossas/fossa-cli).
+
+[GitHub Licensed](https://github.com/github/licensed)
+: GitHub Licensed is an open-source command-line tool that helps automate the process of checking and verifying the licenses of a project's dependencies. It can be integrated into a project's CI/CD pipeline to ensure that all dependencies are properly licensed and compliant with the project's policies.
+
+[ScanCode Toolkit](https://github.com/nexB/scancode-toolkit)
+: ScanCode Toolkit is a free and open source command-line tool for scanning and analyzing the licenses, copyrights, and dependencies of a project. It provides detailed reports on the licensing and composition of a codebase, making it easier to identify and address any issues.
+
+These are only a few examples; several other tools exist for *software composition analysis*, the ongoing and in-depth automatic review of open-source software components and dependencies.
+By incorporating these or similar tools into your project's development workflow, you can streamline the process of managing licenses and ensure ongoing compliance with your project's policies. This not only saves time and effort but also helps reduce the risk of legal issues or conflicts down the road.
