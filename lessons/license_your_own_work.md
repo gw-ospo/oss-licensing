@@ -21,9 +21,9 @@ Let's dive into the importance of licensing your own research outputs and how it
 
 ## Why license your research outputs?
 
-As a researcher, you pour your heart and soul into your work, whether it's writing software, collecting and analyzing datasets, or creating insightful visualizations and content. *So what happens to your research outputs once you've published your findings?*
+As a researcher, you pour your heart and soul into your work, whether it's writing software, collecting and analyzing datasets, or creating insightful visualizations and content. *So what happens to your research outputs once you've completed your findings?*
 
-Licensing your work is an important step in ensuring that your contributions have the greatest possible impact and reach. By choosing the right license, you can control how others use, modify, and share your work, while also receiving proper credit and recognition for your efforts.
+Publishing and licensing your work outputs is an important step in ensuring that your contributions have the greatest possible impact and reach. By choosing the right license, you can control how others use, modify, and share your work, while also receiving proper credit and recognition for your efforts.
 
 Here are some reasons why licensing your research outputs is important.
 
@@ -54,7 +54,7 @@ By licensing your research outputs, you create a ripple effect of impact that ex
 As you progress in your career, the impact and reach of your work compounds over time. Licensing your research outputs is one strategy for maximizing your impact and opening up new opportunities for collaboration, funding, and recognition.
 You can establish yourself as a leader in open and reproducible research, and thus attract top collaborators, secure funding from agencies that prioritize openness, and build a reputation as an innovator in your field.
 
-In fact, the skills and knowledge you gain by navigating the licensing process will serve you well throughout your career. You'll be equipped to understand and manage intellectual property, work effectively with technology transfer offices, and make informed decisions about how to share and promote your work.
+What's more, the skills and knowledge you gain by navigating the licensing process will serve you well throughout your career. You'll be equipped to understand and manage intellectual property, work effectively with technology transfer offices, and make informed decisions about how to share and promote your work.
 
 So, as we move forward in this section, keep in mind the many benefits of licensing your research outputs. By taking control of how your work is used and shared, you can amplify your impact, accelerate discovery, and unlock new opportunities for your career and your field.
 
@@ -76,11 +76,11 @@ When it comes to licensing software, it's essential to use *standard*, widely-re
 Permissive licenses are particularly well-suited for academic settings, as they allow for the greatest flexibility and potential for collaboration and reuse. They also reduce barriers to adoption and make it easier for others to integrate your code into their own projects, even if they are using different licenses.
 ```
 
-When choosing a license for your software, be sure to consider any dependencies or third-party libraries that you are using, as their licenses may impact your choice. Whenever possible, aim for license compatibility to avoid legal conflicts and make it easier for others to use and build upon your work.
+When choosing a license for your software, be sure to consider any dependencies or third-party libraries that you are using, as their licenses may impact your choice. Aim for license compatibility to avoid legal conflicts and make it easier for others to use and build upon your work.
 
 ### Licensing options for research data
 
-Data licensing is a complex and evolving area, but keep in mind some key principles. As a general rule, *aim to make your data as open and accessible as possible, while still respecting any privacy, security, or ethical concerns.*
+Data licensing is a complex and evolving area, but keep in mind some basic principles. As a general rule, *aim to make your data as open and accessible as possible, while still respecting any privacy, security, or ethical concerns.*
 
 For most research data, we recommend using a permissive license like the [Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/) public-domain dedication or the [CC-BY license](https://choosealicense.com/licenses/cc-by-4.0/). These options allow others to freely use, share, and adapt your data, while still giving you credit as the original creator.
 
@@ -97,7 +97,7 @@ The [CC-BY license](https://choosealicense.com/licenses/cc-by-4.0/) is the most 
 When choosing a CC license, consider your goals and the potential impact you want your work to have. In general, we recommend using the most permissive license that still aligns with your needs and values.
 
 ```{warning} 
-It's important to note that *CC licenses are not appropriate for software*, as they do not address key issues like source code distribution, patent rights, and warranty disclaimers. Stick to OSI-approved licenses for software, and use CC licenses for other types of content.
+It's important to note that *CC licenses are not appropriate for software*, as they do not address important issues like source code distribution, patent rights, and warranty disclaimers. Stick to OSI-approved licenses for software, and use CC licenses for other types of content.
 ```
 
 ## Empowering others to build upon your work
@@ -112,17 +112,22 @@ By licensing your code, data, and other research outputs under permissive open l
 As you make decisions about licensing, always keep in mind the bigger picture of how your work can benefit the wider scientific community. By choosing licenses that maximize access and reuse, you can amplify your impact and contribute to a more open and equitable future for research.
 
 ### Commercial uses and copyleft licenses
+````{margin}
+```{important}
+Any license with a non-commercial rider *cannot* be called open source.
+```
+````
 
 All open-source licenses, by definition, *allow for commercial uses* of the licensed software. This is explicitly stated in point 6 of the [Open Source Definition](https://opensource.org/definition-annotated), which requires that an open-source license "must not restrict anyone from making use of the program in a specific field of endeavor," including commercial endeavors.
 
 However, some businesses perceive copyleft licenses (like the GNU GPL) as less friendly to commercial interests. This is because copyleft licenses require any derivative works or modifications to be released under the same license terms. For companies that want to create proprietary software based on open-source components, this "share-alike" requirement can be seen as a barrier.
-In contrast, permissive licenses (like MIT or Apache 2.0) do not have this share-alike requirement, making them more appealing for businesses that want to use open source software in proprietary products.
+In contrast, permissive licenses (like MIT or Apache 2.0) do not have this share-alike requirement, making them more appealing for businesses that want to use open-source software in proprietary products.
 
 It's important to note that this perception of copyleft licenses as "business-unfriendly" is not universally shared, and many successful commercial projects do use and contribute to copyleft-licensed software. Nonetheless, it's a factor to consider when choosing a license for your own projects, especially if you aim to encourage commercial adoption and collaboration.
 
 ### What about a non-commercial CC license?
 
-When it comes to other types of content, such as text, images, or educational materials, some creators may be tempted to use licenses that restrict commercial use, like the Creative Commons CC-BY-NC license. However, we strongly advise against using non-commercial clauses in licenses for scholarly works, as they can be problematic.
+When it comes to other types of content, such as text, images, or educational materials, some creators may be tempted to use licenses that restrict commercial use, like the Creative Commons CC-BY-NC license. However, we strongly advise *against* using non-commercial clauses in licenses for scholarly works, as they can be problematic.
 
 The main issue with non-commercial licenses is that the term "commercial" is not clearly defined and can be interpreted in many different ways. This ambiguity can lead to confusion and uncertainty about how the licensed work can be used, which undermines the very purpose of licensing your works.
 
@@ -135,15 +140,22 @@ Moreover, non-commercial clauses can have unintended consequences for the dissem
 **While it may be tempting to try to restrict commercial uses of your work, in practice, such restrictions often create more barriers than benefits for the academic community.**
 ```
 
-Instead of using non-commercial licenses, we recommend using more permissive licenses like CC-BY or CC-BY-SA for scholarly content. These licenses allow for a wider range of uses while still ensuring that creators receive proper attribution and credit for their work. They also provide greater clarity and certainty for users, making it easier for others to build upon and share the licensed material.
+Instead of using non-commercial licenses, we recommend using more permissive licenses like CC-BY or CC-BY-SA for scholarly content. These licenses allow for a wider range of uses while still ensuring that creators receive proper attribution and credit for their work. They also provide greater clarity and certainty for users, making it easier for others to build upon and share the licensed material and derivative works.
 
 ## Practical guidelines and tips
 
-Now that you realize the importance of licensing and the different types of licenses available, let's review some practical steps you can take to ensure your work is properly licensed and attributed.
+Now that you realize the importance of licensing your work and the different types of licenses available, let's review some practical steps you can take to ensure your work is properly licensed and attributed.
 
 ### Picking a license when creating a code repository on GitHub
 
-When [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub, you can easily add a license to your project. After entering your repository name and description, look for the "Choose a license" dropdown menu. GitHub offers a selection of common open-source licenses, including MIT, Apache 2.0, and GNU GPL. Choose the license that best fits your needs and goals, and GitHub will automatically create a LICENSE file in your repository with the full text of the license.
+When [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub, you can easily add a license to your project. After entering your repository name and description, look for the "Choose a license" dropdown menu. 
+
+```{image} ../assets/repository-license-picker.png
+:alt: screen capture github license picker
+:width: 400px
+:align: center
+```
+GitHub offers a selection of common open-source licenses, including MIT, Apache 2.0, and GNU GPL. Choose the license that best fits your needs and goals, and GitHub will automatically create a LICENSE file in your repository with the full text of the license.
 For example, if you want to use the MIT license for your project, simply select "MIT License" from the dropdown menu, and GitHub will handle the rest.
 
 ### Adding a LICENSE file manually
@@ -175,7 +187,7 @@ In addition to including the full text of your chosen license, it's a good pract
 
 A typical copyright notice and license summary might look like this:
 
-```
+```none
 Copyright (c) [Year] [Your Name]
 
 This project is licensed under the terms of the [License Name] license.
@@ -204,11 +216,10 @@ As a researcher, you don't operate in a vacuum. Your work is supported by and co
 
 ### Familiarizing yourself with your institution's IP policies
 
-````{margin}
-```{note}
-See the [Statement on Intellectual Property](https://www.aaup.org/report/statement-intellectual-property) of the American Association of University Professors, AAUP.
-```
-````
+::::{margin}
+:::{seealso} 
+The American Association of University Professors, AAUP, has issued a [Statement on Intellectual Property](https://www.aaup.org/report/statement-intellectual-property) that puts in place expectations for universities in the U.S.
+::::
 
 At many colleges and universities in the United States, the principles of academic freedom dictate that faculty, students, and some staff (librarians, for example) own the rights to their research and scholarly creations. This means that, as an author, you traditionally retain the copyright to your work and have the authority to decide how it is disseminated, including the choice of license.
 
@@ -219,8 +230,10 @@ To understand your rights and responsibilities, consult your institution's IP po
 ```{admonition} GW Copyright Policies
 :class: tip
 The [GW Copyright Policy](https://compliance.gwu.edu/copyright) says that faculty, librarians, and students retain the copyright of any works done:
-> in pursuit of their normal scholarly, professional, or academic responsibilities, including normal use of the university's physical facilities, by their own initiative...
+> ...in pursuit of their normal scholarly, professional, or academic responsibilities, including normal use of the university's physical facilities, by their own initiative...
 > Sponsored Research, without a specific agreement for copyright, shall be considered scholarly work and the copyright in such works shall belong to the author(s), not to the university. 
+
+This means that scholarly works---including software, documentation, and educational content---belong to the author, who is thus free to choose to share the works under any license.
 ```
 
 ### Leveraging resources and expertise from your Open Source Program Office (OSPO)
@@ -235,11 +248,11 @@ Your institution's OSPO can provide a range of services and expertise, including
 - Support for collaborating with external open-source projects and communities
 - Advocacy for open licensing and open access policies within your institution
 
-If your institution has an OSPO, reach out to them early in your research process to learn about the resources and support they offer. They can be a powerful ally in helping you achieve your open licensing goals and maximizing the impact of your work.
+If your institution has an OSPO, reach out to them early in your research process to learn about the resources and support they offer. They can be a powerful ally in helping you achieve your open-licensing goals and maximizing the impact of your work.
 
 ### Advocating for open licensing of your research outputs
 
-While many institutions have embraced open licensing and open access, in some cases where you may need to advocate for these practices within your research group or department. This is particularly relevant for graduate students and postdocs, who may need to discuss open licensing with their supervisors or principal investigators (PIs).
+While many institutions have embraced open licensing and open access, in some cases you may need to advocate for these practices within your research group or department. This is particularly relevant for graduate students and postdocs, who may need to discuss open licensing with their supervisors or principal investigators (PIs).
 
 If you're a graduate student or postdoc, consider raising the topic of open licensing during research group meetings or one-on-one discussions with your supervisor. Come prepared with a clear rationale for why open licensing is important for your work and how it aligns with the values and goals of your field. Highlight the potential benefits, such as increased visibility, citation impact, and opportunities for collaboration and reuse.
 
@@ -255,6 +268,6 @@ Additionally, consider engaging with your institution's faculty governance bodie
 
 ### Conclusion
 
-Navigating institutional policies and processes related to open licensing can seem daunting, but remember that you are not alone. By familiarizing yourself with your institution's IP policies, leveraging the resources and expertise of your OSPO, and actively advocating for open licensing practices, you can ensure that your research outputs are widely shared and have the greatest possible impact.
+Navigating institutional policies and processes related to open licensing can seem daunting, but remember that you are not alone. By familiarizing yourself with your institution's IP policies, leveraging the resources and expertise of your OSPO, and actively advocating for open-licensing practices, you can ensure that your research outputs are widely shared and have the greatest possible impact.
 
 As you work to openly license your own research, you are advancing your own career and reputation while also contributing to a larger movement towards open and equitable access to knowledge. _Your efforts, combined with those of your colleagues and institution, can help shape a future where the fruits of academic research are freely and openly available to all._
