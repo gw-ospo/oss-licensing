@@ -43,7 +43,7 @@ Moreover, many funding agencies and journals now require or strongly encourage r
 
 One of the most powerful aspects of openly licensing your research outputs is that it facilitates (and even invites) others to collaborate with you and build upon your work. By pre-emptively granting permissions for others to use, modify, and share your code, data, and materials, you open up new opportunities for collaboration and innovation.
 
-Imagine a scenario where another researcher comes across your openly licensed software and realizes that it could be adapted to solve a problem they've been working on. By building upon your work, they are able to make new discoveries and advance their own research. In turn, they may contribute back to your project, leading to a virtuous cycle of collaboration and mutual benefit.
+Imagine a scenario where another researcher comes across your openly licensed software and realizes that it could be adapted to solve a problem they've been working on. By building upon your work, they are able to make new discoveries and advance their own research. In turn, they may contribute back to your project, leading to a **virtuous cycle of collaboration and mutual benefit**.
 
 Or perhaps a teacher discovers your openly licensed dataset and incorporates it into a lesson plan, exposing a new generation of students to your work and inspiring them to pursue careers in your field.
 
