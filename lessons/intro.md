@@ -1,8 +1,10 @@
 # OSS Licensing for Research and Education
 
+```{epigraph}
 This is a a short course that introduces researchers (doctoral students, postdocs, staff researchers and PIs) to the essentials of open-source software (OSS) licensing for research and educational purposes. The course duration should be about 3 hours when taught live, and we will also produce an online version for self-study.
+```
 
-The course covers the key topics related to using, licensing, and collaborating with open source software, data, and content in a research and education context. Each section includes relevant subtopics and practical concerns, focusing on key licensing concepts, choosing appropriate licenses, navigating institutional processes, and fostering open-source collaboration in research teams.
+The three lessons in this course cover essential topics related to using, licensing, and collaborating with open-source software, data, and content in a research and education context. Each section includes relevant subtopics and practical concerns, focusing on key licensing concepts, choosing appropriate licenses, navigating institutional processes, and fostering open-source collaboration in research teams.
 
 `````{admonition} Vignette: A Research Dilemma
 :class: tip
@@ -71,4 +73,5 @@ Prof. [Lorena A. Barba](https://lorenabarba.com/) is the Faculty Director of GW'
 :width: 200px
 :align: left
 ```
+
 _GW's Open Source Programs Office is generously supported by the [Alfred P. Sloan Foundation](https://sloan.org/)._
