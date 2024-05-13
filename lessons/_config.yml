@@ -33,7 +33,7 @@ html:
   use_repository_button: true
   extra_footer: |
     <p>
-    (c) 2024 -- This work is licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0) <br>
+    &copy; 2024 -- This work is licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0) <br>
     </p>
 sphinx:
   config:
