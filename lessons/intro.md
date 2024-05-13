@@ -1,6 +1,6 @@
 # OSS Licensing for Research and Education
 
-This is a a short course that introduces researchers (doctoral students, postdocs, staff researchers and PIs) to the essentials of open-source software (OSS) licensing for research and educational purposes. The course duration should be about 3 hours when taught live, and we will also produce an online version for self-study. 
+This is a a short course that introduces researchers (doctoral students, postdocs, staff researchers and PIs) to the essentials of open-source software (OSS) licensing for research and educational purposes. The course duration should be about 3 hours when taught live, and we will also produce an online version for self-study.
 
 The course covers the key topics related to using, licensing, and collaborating with open source software, data, and content in a research and education context. Each section includes relevant subtopics and practical concerns, focusing on key licensing concepts, choosing appropriate licenses, navigating institutional processes, and fostering open source collaboration in research teams.
 
@@ -22,7 +22,7 @@ Samantha feels overwhelmed by the licensing complexities and is unsure about the
 As researchers increasingly rely on open source tools and collaborate across institutions, understanding software licensing has become crucial. Making the wrong choices could lead to legal troubles, restrict future opportunities, or inadvertently limit the impact of one's work.
 `````
 
-The dilemma presented in the vignette above is an example of how you might first encounter open-source software: someone on the internet posted their code on a website... _Can you use it? Can you incorporate it into your own code? Can you modify it? Can you redistribute it? Should you credit the author?_ 
+The dilemma presented in the vignette above is an example of how you might first encounter open-source software: someone on the internet posted their code on a website... _Can you use it? Can you incorporate it into your own code? Can you modify it? Can you redistribute it? Should you credit the author?_
 
 Once you have experienced the joy of reusing someone else's open-source software, and it has benefitted your research or educational endeavors, you may ask: _how do I share my own code with the world?_ After all, we seek to have impact through our work, and you now see clearly that sharing can have impact! What do you need to know to license your own code, data, or other works?
 
@@ -38,7 +38,7 @@ The vignettes in this course are all fictional, except this one!
 `````{admonition} Vignette: Why open source?
 :class: tip
 ```{image} ../assets/2015_blog.png
-:alt: old blog 
+:alt: old blog
 :width: 400px
 :align: center
 ```

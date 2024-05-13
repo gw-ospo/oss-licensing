@@ -25,13 +25,13 @@ In the world of research and education, open licensing has become increasingly i
 In essence, open licensing refers to a set of principles and legal frameworks that grant permissions for others to freely access, use, modify, and share creative works or products. This concept applies to various types of outputs, including software, research data, scholarly publications, and educational materials.
 
 ```{image} ../assets/licensing_orgs.png
-:alt: logos of licensing orgs 
+:alt: logos of licensing orgs
 :width: 500px
 :align: center
 ```
 
 ````{margin}
-```{note} The [Open Source Initiative](https://opensource.org) (OSI), founded in 1998, is the stewardship organization of the "open-source" label and [OSS licenses](https://opensource.org/license). It drafted the famous [Open Source Definition](https://opensource.org/osd) that defines ten criteria that must be met for a software license to be considered open source. 
+```{note} The [Open Source Initiative](https://opensource.org) (OSI), founded in 1998, is the stewardship organization of the "open-source" label and [OSS licenses](https://opensource.org/license). It drafted the famous [Open Source Definition](https://opensource.org/osd) that defines ten criteria that must be met for a software license to be considered open source.
  ```
 ````
 
@@ -53,7 +53,7 @@ Open licensing is not just a technological or legal construct; it represents a _
 ```{important}
 Open licensing gives us _freedom_---contrary to intellectual-property instruments that want to control how creative works are used.
 
-Freedom is power. In this case, the power of open-source software comes not just from being able to read the source code, but from being able to contribute to and build from it. 
+Freedom is power. In this case, the power of open-source software comes not just from being able to read the source code, but from being able to contribute to and build from it.
 
 For this power to be realized, it's not sufficient to make the source public to read. We must attach a license that allows others to modify and distribute the code.
 
@@ -89,7 +89,7 @@ As a researcher or educator you'll likely find yourself wanting to use code, dat
 
 ### What is license compatibility?
 
-Some licenses play nicely with others, while others have strict requirements that can limit their compatibility. When combining pieces of code together, you will want to check whether the terms of their different licenses allow them to be used together in the same project. 
+Some licenses play nicely with others, while others have strict requirements that can limit their compatibility. When combining pieces of code together, you will want to check whether the terms of their different licenses allow them to be used together in the same project.
 
 For example, let's say you want to use a Python library licensed under the permissive MIT license in your research project. You also want to include a dataset licensed under the Creative Commons Attribution (CC BY) license. In this case, you're in luck! The MIT and CC BY licenses are generally compatible, meaning you can use them together without any legal hiccups.
 
@@ -201,7 +201,7 @@ By engaging in this activity, you'll gain practical experience in navigating the
 
 ````{admonition} Vignette: The Tale of Dr. Flack's Data Visualization Journey
 :class: tip
-Dr. Roberta Flack, a climate scientist, needs to create interactive visualizations of global temperature data. 
+Dr. Roberta Flack, a climate scientist, needs to create interactive visualizations of global temperature data.
 After some searching, she finds a JavaScript library called "ClimateViz" that seems perfect for her needs. The library is hosted on GitHub and is released under the MIT license. She also discovers a dataset of global temperature anomalies from the National Oceanic and Atmospheric Administration (NOAA), which is available under the Creative Commons Attribution (CC-BY) license.
 
 **Identifying and Complying with License Terms**---

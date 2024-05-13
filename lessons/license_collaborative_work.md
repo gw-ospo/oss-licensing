@@ -164,7 +164,7 @@ As graduates of Sunnyvale University moved on to other institutions and industri
 Looking back on the success of "Open Source for All," Dr. Hernandez couldn't help but feel proud. What had started as a small initiative had grown into a movement that was changing the face of research and education at Sunnyvale University and beyond. She knew that the impact of embracing open-source licensing would continue to ripple outwards, driving progress and innovation for years to come.
 ```
 
-This vignette illustrates the powerful potential of open-source licensing to transform an academic community. By embracing the principles of sharing, collaboration, and transparency, researchers and educators can create a virtuous cycle of innovation and discovery that benefits everyone.
+This vignette illustrates the powerful potential of open-source licensing to transform an academic community. By embracing the principles of sharing, collaboration, and transparency, researchers and educators can create a **virtuous cycle of innovation and discovery that benefits everyone**.
 
 As you complete this course and begin to apply what you've learned to your own work, remember that you too have the power to drive change in your community. By choosing to license your projects openly and contributing to the open-source ecosystem, you become part of a global movement that is shaping the future of research and education.
 So go forth, share your work, and collaborate with others. **Together, we can build a more open, equitable, and innovative world.**

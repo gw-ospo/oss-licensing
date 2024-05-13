@@ -1,4 +1,4 @@
-# Lesson 2: Licensing Your Own Software and Other Works 
+# Lesson 2: Licensing Your Own Software and Other Works
 
 ````{admonition} Vignette: So Much to Share
 :class: tip
@@ -43,7 +43,7 @@ Moreover, many funding agencies and journals now require or strongly encourage r
 
 One of the most powerful aspects of openly licensing your research outputs is that it facilitates (and even invites) others to collaborate with you and build upon your work. By pre-emptively granting permissions for others to use, modify, and share your code, data, and materials, you open up new opportunities for collaboration and innovation.
 
-Imagine a scenario where another researcher comes across your openly licensed software and realizes that it could be adapted to solve a problem they've been working on. By building upon your work, they are able to make new discoveries and advance their own research. In turn, they may contribute back to your project, leading to a virtuous cycle of collaboration and mutual benefit.
+Imagine a scenario where another researcher comes across your openly licensed software and realizes that it could be adapted to solve a problem they've been working on. By building upon your work, they are able to make new discoveries and advance their own research. In turn, they may contribute back to your project, leading to a **virtuous cycle of collaboration and mutual benefit**.
 
 Or perhaps a teacher discovers your openly licensed dataset and incorporates it into a lesson plan, exposing a new generation of students to your work and inspiring them to pursue careers in your field.
 
@@ -96,7 +96,7 @@ The [CC-BY license](https://choosealicense.com/licenses/cc-by-4.0/) is the most 
 
 When choosing a CC license, consider your goals and the potential impact you want your work to have. In general, we recommend using the most permissive license that still aligns with your needs and values.
 
-```{warning} 
+```{warning}
 It's important to note that *CC licenses are not appropriate for software*, as they do not address important issues like source code distribution, patent rights, and warranty disclaimers. Stick to OSI-approved licenses for software, and use CC licenses for other types of content.
 ```
 
@@ -148,7 +148,7 @@ Now that you realize the importance of licensing your work and the different typ
 
 ### Picking a license when creating a code repository on GitHub
 
-When [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub, you can easily add a license to your project. After entering your repository name and description, look for the "Choose a license" dropdown menu. 
+When [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub, you can easily add a license to your project. After entering your repository name and description, look for the "Choose a license" dropdown menu.
 
 ```{image} ../assets/repository-license-picker.png
 :alt: screen capture github license picker
@@ -191,7 +191,7 @@ A typical copyright notice and license summary might look like this:
 Copyright (c) [Year] [Your Name]
 
 This project is licensed under the terms of the [License Name] license.
-You are free to use, modify, and distribute this work, subject to the 
+You are free to use, modify, and distribute this work, subject to the
 conditions specified in the LICENSE file.
 ```
 
@@ -200,9 +200,9 @@ For example:
 ```
 Copyright (c) 2023 Jane Doe
 
-This dataset is licensed under the terms of the Creative Commons 
-Attribution 4.0 International (CC BY 4.0) license. You are free to 
-share and adapt this dataset, as long as you give appropriate credit 
+This dataset is licensed under the terms of the Creative Commons
+Attribution 4.0 International (CC BY 4.0) license. You are free to
+share and adapt this dataset, as long as you give appropriate credit
 and indicate if changes were made. See the LICENSE file for details.
 ```
 
@@ -217,13 +217,13 @@ As a researcher, you don't operate in a vacuum. Your work is supported by and co
 ### Familiarizing yourself with your institution's IP policies
 
 ::::{margin}
-:::{seealso} 
+:::{seealso}
 The American Association of University Professors, AAUP, has issued a [Statement on Intellectual Property](https://www.aaup.org/report/statement-intellectual-property) that puts in place expectations for universities in the U.S.
 ::::
 
 At many colleges and universities in the United States, the principles of academic freedom dictate that faculty, students, and some staff (librarians, for example) own the rights to their research and scholarly creations. This means that, as an author, you traditionally retain the copyright to your work and have the authority to decide how it is disseminated, including the choice of license.
 
-However, it's essential to familiarize yourself with your institution's specific IP policies, as they may have some variations or exceptions. For example, some institutions may claim ownership of certain types of work, such as software developed using significant university resources or projects funded by specific sources. 
+However, it's essential to familiarize yourself with your institution's specific IP policies, as they may have some variations or exceptions. For example, some institutions may claim ownership of certain types of work, such as software developed using significant university resources or projects funded by specific sources.
 
 To understand your rights and responsibilities, consult your institution's IP policy documents, faculty handbook, or research administration office. If you have questions or concerns, don't hesitate to reach out to your department chair, librarian, or legal counsel for guidance.
 
@@ -231,7 +231,7 @@ To understand your rights and responsibilities, consult your institution's IP po
 :class: tip
 The [GW Copyright Policy](https://compliance.gwu.edu/copyright) says that faculty, librarians, and students retain the copyright of any works done:
 > ...in pursuit of their normal scholarly, professional, or academic responsibilities, including normal use of the university's physical facilities, by their own initiative...
-> Sponsored Research, without a specific agreement for copyright, shall be considered scholarly work and the copyright in such works shall belong to the author(s), not to the university. 
+> Sponsored Research, without a specific agreement for copyright, shall be considered scholarly work and the copyright in such works shall belong to the author(s), not to the university.
 
 This means that scholarly works---including software, documentation, and educational content---belong to the author, who is thus free to choose to share the works under any license.
 ```
