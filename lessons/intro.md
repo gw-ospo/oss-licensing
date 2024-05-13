@@ -48,7 +48,7 @@ In an October 2015 [interview](https://web.archive.org/web/20180514095134/http:/
 
 `````
 
-## Lessons
+## Table of Contents
 
 ```{tableofcontents}
 ```
@@ -63,4 +63,12 @@ In an October 2015 [interview](https://web.archive.org/web/20180514095134/http:/
 
 The [GW Open Source Program Office](http://ospo.gwu.edu) (OSPO) supports the GW community in their use of open-source tools, helps researchers comply with Open Science policies, and trains users in open-source development. The OSPO aims to help foster a culture of open collaboration and knowledge-sharing, aligned with the research and education missions of the university.
 
-Prof. [Lorena A. Barba](https://lorenabarba.com/ is the Faculty Director of GW's OSPO. She has many years of engaging with open-source software, including as member of the Board of Directors of NumFOCUS, a nonprofit supporting open-source scientific computing tools (2014–2021); as founding editor of The Journal of Open Source Software and Associate Editor-in-Chief through 2021; and as one of the inaugural Jupyter Distinguised Contributor (2020). She is an internationally recognized expert on increasing transparency and reproducibility in research through open-source tools and practices.
+Prof. [Lorena A. Barba](https://lorenabarba.com/) is the Faculty Director of GW's OSPO. She has many years of engaging with open-source software, including as member of the Board of Directors of NumFOCUS, a nonprofit supporting open-source scientific computing tools (2014–2021); as founding editor of The Journal of Open Source Software and Associate Editor-in-Chief until 2021; and as one of the inaugural Jupyter Distinguised Contributor (2020). She is an internationally recognized expert on increasing transparency and reproducibility in research through open-source tools and practices.
+
+
+```{image} ../assets/sloan-logo-withmargin.png
+:alt: sloan logo
+:width: 200px
+:align: left
+```
+_GW's Open Source Programs Office is generously supported by the [Alfred P. Sloan Foundation](https://sloan.org/)._
