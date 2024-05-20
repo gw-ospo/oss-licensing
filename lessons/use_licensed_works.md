@@ -123,6 +123,11 @@ If you find code or other content on a public repository or website, and there's
 ```
 
 ## Examples of OSS for researchers and their license terms
+````{margin}
+```{note}
+The Molecular Sciences Software Institute (MolSSI) maintains a list of [community code partners](https://molssi.org/molssi-community-code-partners/) that includes many programs used in chemistry.
+```
+````
 ```{dropdown} Python, NumPy, R, BioPython, LAMMPS, NWChem, Quantum ESPRESSO, QGIS...
 Python
 : Python is a popular open-source programming language widely used in scientific computing, data analysis, and machine learning. It is released under the [Python Software Foundation License](https://docs.python.org/3/license.html#psf-license), a permissive software license approved by the OSI. Thus, all of the Python source code can be reused and redistributed for any use, including commercial. The only condition is that the PSF's License Agreement and PSF's notice of copyright be retained in any derivative works.
@@ -135,12 +140,6 @@ R
 
 Biopython
 : [Biopython](https://biopython.org) is a set of tools for computational biology and bioinformatics written in Python. It is released under the Biopython License Agreement, but many files are [dual-licensed](https://github.com/biopython/biopython/blob/master/LICENSE.rst) under the BSD 3-Clause License. These are both permissive licenses allowing all uses and redistribution, provided that the copyright notice is retained. The Biopython License, however, is not OSI-approved.
-
-````{margin}
-```{note}
-The Molecular Sciences Software Institute (MolSSI) maintains a list of [community code partners](https://molssi.org/molssi-community-code-partners/) that includes many programs used in chemistry.
-```
-````
 
 LAMMPS
 : The Large-scale Atomic/Molecular Massively Parallel Simulator, [LAMMPS](https://www.lammps.org/) is a software package for high-performance (classical) molecular dynamics simulations for materials science applications.It is distributed under the [terms](https://docs.lammps.org/Intro_opensource.html) of the GNU Public License Version 2 (GPLv2), so any software that uses or includes LAMMPS source code must also be under GPL.
