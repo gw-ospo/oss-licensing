@@ -122,11 +122,10 @@ Understanding license compatibility and directionality is key to making informed
 If you find code or other content on a public repository or website, and there's no license information, you must assume it is "all rights reserved." If it looks like the author meant for their work to be reused, you can contact them (or open an issue in the repository) asking them to add a public license.
 ```
 
-````{margin}
-```{note}
+::::{margin}
+:::{seealso}
 The Molecular Sciences Software Institute (MolSSI) maintains a list of [community code partners](https://molssi.org/molssi-community-code-partners/) that includes many programs used in chemistry.
-```
-````
+::::
 ## Examples of OSS for researchers and their license terms
 ```{dropdown} Python, NumPy, R, BioPython, LAMMPS, NWChem, Quantum ESPRESSO, QGIS...
 Python
