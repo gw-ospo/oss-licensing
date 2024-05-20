@@ -6,13 +6,13 @@ This is a a short course that introduces researchers (doctoral students, postdoc
 
 The three lessons in this course cover essential topics related to using, licensing, and collaborating with open-source software, data, and content in a research and education contexts. Each section includes relevant subtopics and practical concerns, focusing on key licensing concepts, choosing appropriate licenses, navigating institutional processes, and fostering open-source collaboration in research teams.
 
-`````{admonition} Vignette: A Research Dilemma
-:class: tip
 ````{margin}
 ```{note}
 The vignettes in this course are all fictional user stories.
 ```
 ````
+`````{admonition} Vignette: A Research Dilemma
+:class: tip
 Dr. Samantha Rodriguez, a graduate student in computational biology, has been working on developing new algorithms for analyzing genomic data. During her literature review, she comes across a research paper that describes a software tool that could significantly improve the performance of her analysis pipeline.
 
 The software seems to be exactly what she needs, and the paper's authors have made the source code available online. Excited by this discovery, Samantha downloads the code and tries to integrate it into her own project.
