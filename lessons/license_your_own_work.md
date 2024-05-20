@@ -58,6 +58,13 @@ What's more, the skills and knowledge you gain by navigating the licensing proce
 
 So, as we move forward in this section, keep in mind the many benefits of licensing your research outputs. By taking control of how your work is used and shared, you can amplify your impact, accelerate discovery, and unlock new opportunities for your career and your field.
 
+## Examples of OSS policies and initiatives
+```{dropdown} NASA
+NASA
+: The National Academies of Science, Engineering and Medicine (NASEM) conducted a study and issued "Open Source Software Policy Options for NASA Earth and Space Sciences." The committee (which included GW OSPO faculty director Lorena Barba) investigated data and policy options to date and the lessons learned from their implementation, gathered community views, and issued finding and recommendations {cite:p}`nasem2018oss`. This led (among other efforts) to the creation of NASA's [Transform to Open Science (TOPS)](https://nasa.github.io/Transform-to-Open-Science/) 5-year initiative, launched in 2022 to accelerate adoption of open science. NASA's program on [High Priority Open-Source Science](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={F00E69A7-D2FB-8C27-6842-61D3C3C475D1}&path=open) funds proposals to support related activities. Moreover, the Science Mission Directorate (SMD) [Scientific Information Policy](https://science.nasa.gov/researchers/open-science/science-information-policy/) Document SPD-41a stipulates that all research data and software be shared under a permissive license, with rare exceptions.
+
+```
+
 ## Licensing code, data, and other content types
 
 As a researcher, you produce a wide variety of outputs, each with its own unique characteristics and licensing considerations. In this section, we'll break down some factors to keep in mind when licensing software, data, and other content types.
@@ -228,7 +235,7 @@ However, it's essential to familiarize yourself with your institution's specific
 To understand your rights and responsibilities, consult your institution's IP policy documents, faculty handbook, or research administration office. If you have questions or concerns, don't hesitate to reach out to your department chair, librarian, or legal counsel for guidance.
 
 ```{admonition} GW Copyright Policies
-:class: tip
+:class: note
 The [GW Copyright Policy](https://compliance.gwu.edu/copyright) says that faculty, librarians, and students retain the copyright of any works done:
 > ...in pursuit of their normal scholarly, professional, or academic responsibilities, including normal use of the university's physical facilities, by their own initiative...
 > Sponsored Research, without a specific agreement for copyright, shall be considered scholarly work and the copyright in such works shall belong to the author(s), not to the university.
