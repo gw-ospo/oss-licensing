@@ -122,12 +122,12 @@ Understanding license compatibility and directionality is key to making informed
 If you find code or other content on a public repository or website, and there's no license information, you must assume it is "all rights reserved." If it looks like the author meant for their work to be reused, you can contact them (or open an issue in the repository) asking them to add a public license.
 ```
 
-## Examples of OSS for researchers and their license terms
 ````{margin}
 ```{note}
 The Molecular Sciences Software Institute (MolSSI) maintains a list of [community code partners](https://molssi.org/molssi-community-code-partners/) that includes many programs used in chemistry.
 ```
 ````
+## Examples of OSS for researchers and their license terms
 ```{dropdown} Python, NumPy, R, BioPython, LAMMPS, NWChem, Quantum ESPRESSO, QGIS...
 Python
 : Python is a popular open-source programming language widely used in scientific computing, data analysis, and machine learning. It is released under the [Python Software Foundation License](https://docs.python.org/3/license.html#psf-license), a permissive software license approved by the OSI. Thus, all of the Python source code can be reused and redistributed for any use, including commercial. The only condition is that the PSF's License Agreement and PSF's notice of copyright be retained in any derivative works.
@@ -166,15 +166,14 @@ Citing openly licensed works is important because:
 
 In academia, citing software and data is becoming increasingly common and accepted, just as citing research articles and books has long been the norm. Many open-source software projects provide clear guidelines on how to cite them in research publications, often including a suggested citation format or even a DOI (Digital Object Identifier) for stable referencing.
 
-`````{admonition}  Spotlight on the Journal of Open Source Software (JOSS)
+```{admonition}  Spotlight on the Journal of Open Source Software (JOSS)
 :class: tip
 One initiative that is helping to promote the proper citation and recognition of open-source software in research is [The Journal of Open Source Software (JOSS)](http://joss.theoj.org). JOSS is a peer-reviewed journal that publishes articles describing open-source software packages, libraries, and tools used in research.
 
 What sets JOSS apart is its focus on the software itself, rather than the research results obtained using the software. Each JOSS article includes a detailed description of the software, its purpose, functionality, and how it can be used by other researchers. Importantly, JOSS articles also provide a standardized way to cite the software, making it easier for others to properly credit and reference the work.
 
 By publishing in JOSS, software developers can receive academic credit for their work, similar to publishing a research article. This helps to incentivize the creation and sharing of high-quality, well-documented open-source software, and promotes a culture of recognition and collaboration within the research community.
-
-`````
+```
 
 ### Leading by example
 
