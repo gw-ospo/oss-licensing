@@ -118,8 +118,12 @@ A handy tool to help you with this task is the [Creative Commons License Compati
 
 Understanding license compatibility and directionality is key to making informed decisions when using and combining licensed works in your research and educational projects. Take the time to review the licenses of the components you use, and always confirm that you are using them legally and ethically.
 
-## Examples of OSS for researchers and their license terms
+```{important}
+If you find code or other content on a public repository or website, and there's no license information, you must assume it is "all rights reserved." If it looks like the author meant for their work to be reused, you can contact them (or open an issue in the repository) asking them to add a public license.
+```
 
+## Examples of OSS for researchers and their license terms
+```{dropdown} Python, NumPy, R, BioPython, LAMMPS, NWChem, Quantum ESPRESSO, QGIS...
 Python
 : Python is a popular open-source programming language widely used in scientific computing, data analysis, and machine learning. It is released under the [Python Software Foundation License](https://docs.python.org/3/license.html#psf-license), a permissive software license approved by the OSI. Thus, all of the Python source code can be reused and redistributed for any use, including commercial. The only condition is that the PSF's License Agreement and PSF's notice of copyright be retained in any derivative works.
 
@@ -149,6 +153,7 @@ Quantum ESPRESSO
 
 QGIS
 : [QGIS](https://github.com/qgis/QGIS) is a popular open-source geographic information system (GIS) used for mapping and spatial data analysis. It is licensed under the GNU General Public License (GPL) version 2 or later. Like with R, above, any modifications or derivative works of QGIS must also be distributed as open-source under the GPL.
+```
 
 ## Giving credit where credit is due: citing openly licensed works
 
