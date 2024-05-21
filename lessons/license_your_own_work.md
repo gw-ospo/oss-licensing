@@ -188,11 +188,11 @@ License badges are small, visual indicators that quickly convey the license term
 To add a license badge, simply copy the badge code from a reputable source and paste it into your README file or cover page. For example, to add an MIT license badge from [Shields.io](http://shields.io), you would include the following code in your Markdown file:
 
 ```
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ```
 This will display a small badge that says "License: MIT", like this:
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 ### Writing a copyright notice with license details
 
