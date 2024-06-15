@@ -1,9 +1,0 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
-format: jb-book
-root: intro
-chapters:
-- file: use_licensed_works
-- file: license_your_own_work
-- file: license_collaborative_work

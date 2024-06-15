@@ -1,0 +1,20 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 39fd049f-095d-4abb-a63e-11a43841d7cf
+  title: OSS Licensing for Research and Education
+  author: Lorena A. Barba
+  license: CC-BY-4.0
+  github: https://github.com/gw-ospo/oss-licensing
+  # description:
+  # keywords: []
+  # authors: []
+  toc:
+    - file: lessons/intro.md
+    - file: lessons/use_licensed_works.md
+    - file: lessons/license_your_own_work.md
+    - file: lessons/license_collaborative_work.md
+site:
+  template: book-theme
+  options:
+    logo: assets/gw_iddol_ospo_2c.png
