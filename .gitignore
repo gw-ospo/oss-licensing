@@ -5,7 +5,7 @@
 
 
 #  ignore all artifacts from the build process (regardless of book name):
-*/_build/*
+_build
 
 
 
